@@ -1,0 +1,45 @@
+html {
+	background: url("grey.jpg");
+}
+
+#top {
+	min-height: 70%;
+	top: 0;
+}
+
+#top .live {
+	background: url("LIVE_TOP.png");
+	width: 320px;
+	height: 240px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#bottom .live {
+	background: url("LIVE_BOTTOM.png");
+	width: 320px;
+	height: 240px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#bottom {
+	background: url("light.png");
+	min-height: 20%;
+	bottom: 0;
+	text-align: center;
+}
+
+#contacts {
+	margin: auto;
+	width: 20%;
+	height: 15%;
+	background: #fafafa;
+	border-radius: 1em 1em 4em 1em;
+	text-align: left;
+}
+
+#logo {
+	margin: auto;
+	width: 20%;
+	text-align: center;
+}
