@@ -3,23 +3,25 @@ html {
 }
 
 #top {
-	min-height: 70%;
+	min-height: 60%;
 	top: 0;
 }
 
 #top .live {
 	background: url("LIVE_TOP.png");
 	width: 320px;
-	height: 240px;
+	height: 150px;
 	margin-left: auto;
 	margin-right: auto;
 }
 #bottom .live {
 	background: url("LIVE_BOTTOM.png");
 	width: 320px;
-	height: 240px;
+	height: 90px;
 	margin-left: auto;
 	margin-right: auto;
+	
+	top: 0;
 }
 
 #bottom {
