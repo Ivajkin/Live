@@ -9,8 +9,10 @@ html {
 	margin-left: auto;
 	margin-right: auto;
 	
-	margin-top: 26%;
+	margin-top: 15%;
 	margin-bottom: 0;
+	
+	cursor: pointer;
 }
 #bottom .live {
 	background: url("LIVE_BOTTOM.png");
@@ -21,6 +23,9 @@ html {
 	
 	top: 0;
 	margin-top: 0;
+	
+	
+	margin-bottom: 0;
 }
 
 #bottom {
@@ -37,10 +42,32 @@ html {
 	background: #fafafa;
 	border-radius: 1em 1em 4em 1em;
 	text-align: left;
+	min-height: 60px;
+	border: solid 1px #2C2;
 }
 
 #logo {
 	margin: auto;
 	width: 20%;
 	text-align: center;
+}
+
+.sphere {
+	border-radius: 20px 20px 20px 20px;
+	margin-left: 5px;
+	background: #8c7;
+	width: 40px;
+	height: 40px;
+	position: absolute;
+	top: 30px;
+}
+
+.sphere.s1 {
+	right: 30px;
+}
+.sphere.s2 {
+	right: 60px;
+}
+.sphere.s3 {
+	right: 90px;
 }
