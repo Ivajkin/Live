@@ -13,6 +13,8 @@ html {
 	margin-bottom: 0;
 	
 	cursor: pointer;
+	
+	left: 0;
 }
 #bottom .live {
 	background: url("LIVE_BOTTOM.png");
@@ -26,11 +28,13 @@ html {
 	
 	
 	margin-bottom: 0;
+	
+	left: 0;
 }
 
 #bottom {
 	background: url("light.png");
-	min-height: 20%;
+	height: 60%;
 	bottom: 0;
 	text-align: center;
 }
@@ -38,18 +42,36 @@ html {
 #contacts {
 	margin: auto;
 	width: 20%;
-	height: 15%;
 	background: #fafafa;
 	border-radius: 1em 1em 4em 1em;
 	text-align: left;
-	min-height: 60px;
+	height: 60px;
 	border: solid 1px #2C2;
+	
+	margin-bottom: 10px;
 }
 
 #logo {
-	margin: auto;
-	width: 20%;
 	text-align: center;
+	font-family: 'Oleo Script', cursive;
+	
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5px;
+	
+	font-size: 2em;
+	text-shadow: 0.05em 0.05em 0.07em black;
+	
+	color: white;
+	background: #DDD;
+	background: #EFD;
+	color: #8A5;
+	width: 100%;
+	border: 1px #777 solid;
+	
+	position: fixed;
+	bottom: 0;
+	left: 0;
 }
 
 .sphere {
