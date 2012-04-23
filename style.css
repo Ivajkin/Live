@@ -1,11 +1,19 @@
 html {
-	background: url("grey.jpg");
+	background: url("clouds.jpg");
 }
 
-#top .live {
-	background: url("LIVE_TOP.png");
-	width: 320px;
-	height: 150px;
+#dark-background {
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background: url("clouds-smooth.jpg");
+	position: fixed;
+	opacity: 0;
+	z-index: -1;
+}
+
+.live {
 	margin-left: auto;
 	margin-right: auto;
 	
@@ -15,26 +23,13 @@ html {
 	cursor: pointer;
 	
 	left: 0;
-}
-#bottom .live {
-	background: url("LIVE_BOTTOM.png");
-	width: 320px;
-	height: 90px;
-	margin-left: auto;
-	margin-right: auto;
+	text-align: center;
+	font-size: 17em;
 	
-	top: 0;
-	margin-top: 0;
-	
-	
-	margin-bottom: 0;
-	
-	left: 0;
+	text-shadow: white 1px 1px 26px;
 }
 
-#bottom {
-	background: url("light.png");
-	height: 60%;
+#info {
 	bottom: 0;
 	text-align: center;
 }
@@ -49,6 +44,8 @@ html {
 	border: solid 1px #2C2;
 	
 	margin-bottom: 10px;
+	
+	min-width: 240px;
 }
 
 #logo {

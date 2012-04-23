@@ -1,11 +1,12 @@
 
-$$('#top .live').addEvent('click', function() {
-	$$('#top .live').morph({
-		"margin-left": 0,
+$$('.live').addEvent('click', function() {
+	$$('.live').morph({
 		"margin-top": 0
 	});
-	$$('#bottom .live').morph({
-		"margin-left": 0
+});
+$$('.live').addEvent('mouseover', function() {
+	$('dark-background').morph({
+		"opacity": 1
 	});
 });
 /*
