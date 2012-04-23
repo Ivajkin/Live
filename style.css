@@ -27,6 +27,7 @@ html {
 	font-size: 17em;
 	
 	text-shadow: white 1px 1px 26px;
+	font-family: 'Cookie', cursive;
 }
 
 #info {
@@ -74,19 +75,23 @@ html {
 .sphere {
 	border-radius: 20px 20px 20px 20px;
 	margin-left: 5px;
-	background: #8c7;
 	width: 40px;
 	height: 40px;
 	position: absolute;
 	top: 30px;
+	cursor: pointer;
 }
 
 .sphere.s1 {
 	right: 30px;
+	background: #69f;
+	opacity: 0.9;
 }
 .sphere.s2 {
 	right: 60px;
+	background: #59f;
 }
 .sphere.s3 {
 	right: 90px;
+	background: #48e;
 }
