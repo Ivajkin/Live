@@ -3,12 +3,20 @@ $$('.live').addEvent('click', function() {
 	$$('.live').morph({
 		"margin-top": 0
 	});
+	$$('.live').removeEvents('mouseover');
+	$$('.live').removeEvents('mouseout');
 });
-$$('.live').addEvent('mouseover', function() {
-	$('dark-background').morph({
-		"opacity": 1
+
+function fadeLiveOpacityEvent(event, opacity) {
+
+	$$('.live').addEvent(event, function() {
+		$('dark-background').morph({
+			"opacity": opacity
+		});
 	});
-});
+}
+fadeLiveOpacityEvent('mouseover', 1);
+fadeLiveOpacityEvent('mouseout', 0);
 /*
 $$('.sphere').addEvent('click', function() {
 	var sa = [$$('.sphere .s1'), $$('.sphere .s2'), $$('.sphere .s3')];
