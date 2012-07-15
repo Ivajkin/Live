@@ -1,0 +1,28 @@
+Серверная часть:
+	node.js+Express
+
+Клиентский фронтенд:
+	jQuery+Aristo theme
+
+Тестирование:
+	Mocha
+
+Хранилище:
+	MongoDB (MongoHQ на Heroku)
+
+HTML шаблонизатор:
+	Jade
+
+CSS шаблонизатор:
+	Stylus
+
+
+
+#Так пакет был создан с нуля:
+_(Лучше использовать Linux, а то проблем будет больше в разы)_
+Установка пакетов:
+	$ npm install express mongoose jade less expresso
+запускаем локальный демон MongoDB:
+	$ mongod
+Создаём скелет приложения:
+	$ express demos
