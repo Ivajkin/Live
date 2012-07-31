@@ -1,0 +1,162 @@
+<mockup version="1.0" skin="sketch" measuredW="1208" measuredH="702" mockupW="1157" mockupH="692">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="51" y="10" w="1157" h="692" measuredW="1157" measuredH="692" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <override controlID="1:1" x="0" y="86" w="61" h="389"/>
+        <src>./assets/background.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="__group__" x="529" y="119" w="584" h="576" measuredW="584" measuredH="576" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="584" h="576" measuredW="584" measuredH="576" zOrder="0" locked="false" isInGroup="5">
+          <controlProperties>
+            <override controlID="0" x="0" y="0" w="584" h="576"/>
+            <override controlID="1" x="17" y="60" w="550" h="292">
+              <bold>false</bold>
+              <text>%u0417%u0430%u043F%u043E%u043B%u043D%u0438%u0442%u0435%20%u0441%u043B%u0435%u0434%u0443%u044E%u0449%u0443%u044E%20%u0444%u043E%u0440%u043C%u0443%20%u0434%u043B%u044F%20%u043F%u043E%u043B%u0443%u0447%u0435%u043D%u0438%u044F%20%u0434%u043E%u0441%u0442%u0443%u043F%u0430%20%u043A%20%u0431%u043E%u043B%u0435%u0435%20%u043F%u0440%u043E%u0441%u0442%u043E%u043C%u0443%20%u0438%20%u0443%u0434%u043E%u0431%u043D%u043E%u043C%u0443%20%u043C%u0435%u0442%u043E%u0434%u0443%20%u0437%u0430%u043A%u0430%u0437%u0430%20%u0443%u0441%u043B%u0443%u0433%3A</text>
+            </override>
+            <override controlID="0:0" x="0" y="0" w="584" h="576">
+              <text/>
+            </override>
+            <override controlID="0:2" x="22" y="13" w="541" h="43">
+              <text>%u0420%u0435%u0433%u0438%u0441%u0442%u0440%u0430%u0446%u0438%u044F</text>
+            </override>
+            <override controlID="0:1" x="38" y="48" w="503" h="-1"/>
+            <src>./assets/panel_big.bmml</src>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="211" y="506" w="162" h="44" measuredW="150" measuredH="28" zOrder="1" locked="false" isInGroup="5">
+          <controlProperties>
+            <href>d200_administration_debug_console%26bm%3Bd200_administration_debug_console.bmml%26bm%3Bd200_administration_debug_console.bmml%26bm%3Bd200_administration_debug_console.bmml</href>
+            <text>%u0417%u0430%u0440%u0435%u0433%u0438%u0441%u0442%u0440%u0438%u0440%u043E%u0432%u0430%u0442%u044C%u0441%u044F</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Component" x="546" y="347" w="492" h="62" measuredW="492" measuredH="62" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0:0">
+          <text>%u0424%u0418%u041E</text>
+        </override>
+        <override controlID="0:5">
+          <state>up</state>
+          <text>%u041F%u0443%u0448%u043A%u0438%u043D%20%u0410.%u0421.</text>
+        </override>
+        <src>./assets/input_box_big.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Component" x="546" y="223" w="492" h="62" measuredW="492" measuredH="62" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0:0">
+          <text>%u041B%u043E%u0433%u0438%u043D</text>
+        </override>
+        <override controlID="0:5">
+          <state>up</state>
+          <text>pushkin</text>
+        </override>
+        <src>./assets/input_box_big.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Component" x="546" y="285" w="492" h="62" measuredW="492" measuredH="62" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0:0">
+          <text>%u041F%u0430%u0440%u043E%u043B%u044C</text>
+        </override>
+        <override controlID="0:5">
+          <state>up</state>
+          <text>******</text>
+        </override>
+        <src>./assets/input_box_big.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Component" x="546" y="409" w="492" h="62" measuredW="492" measuredH="62" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0:0">
+          <text>%u0422%u0435%u043B%u0435%u0444%u043E%u043D</text>
+        </override>
+        <override controlID="0:5">
+          <state>up</state>
+          <text>+79257763032</text>
+        </override>
+        <src>./assets/input_box_big.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Component" x="546" y="471" w="492" h="62" measuredW="492" measuredH="62" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0:0">
+          <text>E-mail</text>
+        </override>
+        <override controlID="0:5">
+          <state>up</state>
+          <text>pushkin@piter.com</text>
+        </override>
+        <src>./assets/input_box_big.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Component" x="262" y="224" w="215" h="73" measuredW="215" measuredH="73" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="215" h="73"/>
+        <src>./assets/selector.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Component" x="262" y="119" w="217" h="576" measuredW="217" measuredH="576" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="217" h="576"/>
+        <override controlID="0:2" x="29" y="10" w="179" h="43">
+          <text>%u041C%u0435%u043D%u044E%20%u043F%u043E%u043B%u044C%u0437%u043E%u0432%u0430%u0442%u0435%u043B%u044F</text>
+        </override>
+        <override controlID="0:0" x="0" y="0" w="217" h="576"/>
+        <override controlID="0:1" x="14" y="48" w="187" h="-1"/>
+        <src>./assets/panel_small.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Component" x="287" y="171" w="191" h="61" measuredW="191" measuredH="61" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="164" h="53">
+          <href>d110_login_login%26bm%3Bd110_login_login.bmml%26bm%3Bd110_login_login.bmml%26bm%3Bd110_login_login.bmml</href>
+        </override>
+        <override controlID="4">
+          <href>d110_login_login%26bm%3Bd110_login_login.bmml%26bm%3Bd110_login_login.bmml%26bm%3Bd110_login_login.bmml</href>
+        </override>
+        <override controlID="4:2">
+          <text>%u0412%u043E%u0439%u0442%u0438%20%u0432%20%u0430%u043A%u043A%u0430%u0443%u043D%u0442</text>
+        </override>
+        <override controlID="0:3" x="13" y="48" w="151" h="-1"/>
+        <override controlID="4:1:0">
+          <text>%u0412%u0445%u043E%u0434</text>
+        </override>
+        <override controlID="0:2" x="0" y="5" w="-1" h="-1"/>
+        <override controlID="0:0" x="40" y="0" w="124" h="28">
+          <text>%u0412%u0445%u043E%u0434</text>
+        </override>
+        <src>./assets/menu_element.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Component" x="287" y="223" w="166" h="76" measuredW="166" measuredH="76" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="164" h="53">
+          <href>d100_login_register%26bm%3Bd100_login_register.bmml%26bm%3Bd100_login_register.bmml%26bm%3Bd100_login_register.bmml</href>
+        </override>
+        <override controlID="4" x="0" y="0" w="166" h="76">
+          <href>d100_login_register%26bm%3Bd100_login_register.bmml%26bm%3Bd100_login_register.bmml%26bm%3Bd100_login_register.bmml</href>
+        </override>
+        <override controlID="4:2" x="40" y="27" w="126" h="49">
+          <text>%u0420%u0435%u0433%u0438%u0441%u0442%u0440%u0430%u0446%u0438%u044F%20%u0432%20%u0441%u0438%u0441%u0442%u0435%u043C%u0435</text>
+        </override>
+        <override controlID="4:0" x="0" y="66" w="151" h="10"/>
+        <override controlID="4:0:3" x="0" y="0" w="151" h="5"/>
+        <override controlID="4:1" x="0" y="0" w="141" h="37"/>
+        <override controlID="4:1:0" x="40" y="0" w="101" h="28">
+          <text>%u0420%u0435%u0433%u0438%u0441%u0442%u0440%u0430%u0446%u0438%u044F</text>
+        </override>
+        <override controlID="0:2" x="0" y="5" w="-1" h="-1"/>
+        <override controlID="4:1:2" x="0" y="5" w="-1" h="-1"/>
+        <override controlID="0:0" x="40" y="0" w="124" h="28">
+          <text>%u0420%u0435%u0433%u0438%u0441%u0442%u0440%u0430%u0446%u0438%u044F</text>
+        </override>
+        <override controlID="0:3" x="13" y="48" w="151" h="-1"/>
+        <src>./assets/menu_element.bmml</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

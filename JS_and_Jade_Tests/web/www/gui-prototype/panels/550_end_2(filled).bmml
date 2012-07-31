@@ -1,0 +1,43 @@
+<mockup version="1.0" skin="sketch" measuredW="1261" measuredH="730" mockupW="1237" mockupH="712">
+  <controls>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Component" x="24" y="18" w="1237" h="712" measuredW="1237" measuredH="712" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#main_background</src>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Component" x="365" y="183" w="554" h="470" measuredW="554" measuredH="470" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22639%2C566%2C789%2C619%22%20href%3D%22600_end_1_sub1.bmml%22%20alt%3D%22600_end_1_sub1%22%20id%3D%223%22/%3E</map>
+        <override controlID="8">
+          <color>11982760</color>
+          <text>%u0424%u0430%u043C%u0438%u043B%u0435%u0432%u0438%u0447%20%u0418.%u041E.</text>
+        </override>
+        <override controlID="24">
+          <color>40463</color>
+          <icon>CheckMarkIcon%7Cxsmall</icon>
+        </override>
+        <override controlID="10">
+          <color>40463</color>
+          <icon>CheckMarkIcon%7Cxsmall</icon>
+        </override>
+        <override controlID="3">
+          <color>11982760</color>
+          <href>600_end_1_sub1%26bm%3B600_end_1_sub1.bmml%26bm%3B600_end_1_sub1.bmml%26bm%3B600_end_1_sub1.bmml</href>
+        </override>
+        <override controlID="4">
+          <color>16770457</color>
+        </override>
+        <override controlID="13">
+          <color>11982760</color>
+          <text>86069245671</text>
+        </override>
+        <src>./assets/user_form.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Component" x="45" y="183" w="320" h="470" measuredW="320" measuredH="470" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/main_navigation_social.bmml</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

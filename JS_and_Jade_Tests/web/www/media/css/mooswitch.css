@@ -1,0 +1,80 @@
+.switchbox {
+	margin: 0 auto;
+	display: block;
+	position: relative;
+}
+.switchbox .background {
+	width: 78px;
+	height: 26px;
+	
+	background: url('../images/controls/switch-bg.png') no-repeat;
+	background-position: 50% 0px;
+	position: relative;
+	margin: 0;
+	
+	z-index: 145;
+}
+.switchbox div.handle {
+	width:22px;
+	height:16px;
+	background: url('../images/controls/switch-slider.png') no-repeat;
+	background-position: 50% 0px;
+	cursor: w-resize;
+	position: absolute;
+	left: 0;
+	top: 5px !important;
+	
+	padding-left: 15px;
+}
+.switchbox.disabled .background {
+	background-position: 50% -26px;
+}
+.switchbox.disabled div.handle {
+	background-position: 50% -16px;
+	cursor: default;
+}
+/*.switchbox div.label {*/
+	/*font-family: "Helvetica", "Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;*/
+	/*font-size:11px;
+	font-weight:bold;
+	color:#DDD;
+	text-shadow:0 -1px 1px #555;*/
+	/*position: relative;
+	top:0;
+	display:block;
+	width:40px;
+	text-align:center;
+	cursor: pointer;
+}
+*/
+.switchbox div.light_bg {
+	color:#555;
+	text-shadow:0 1px 1px #FFF;
+}
+
+.labels {
+	top: 0px;
+	height: 26px;
+	position: absolute;
+	width: 100%;
+	
+	z-index: 140;
+}
+
+.switchbox .label {
+	
+	position: relative;
+	top:0;
+	display:block;
+	width:40px;
+	text-align:center;
+	cursor: pointer;
+}
+.label.sb_left {
+	float: left;
+	left: 0px;
+}
+.label.sb_right {
+	float: right;
+	right: 0px;
+}

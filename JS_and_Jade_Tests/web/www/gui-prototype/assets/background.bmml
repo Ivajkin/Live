@@ -1,0 +1,113 @@
+<mockup version="1.0" skin="sketch" measuredW="1158" measuredH="705" mockupW="1157" mockupH="692">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="254" y="13" w="904" h="67" measuredW="904" measuredH="67" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>0000_index_homepage%26bm%3B0000_index_homepage.bmml%26bm%3B0000_index_homepage.bmml%26bm%3B0000_index_homepage.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22253%2C0%2C1157%2C67%22%20href%3D%220000_index_homepage.bmml%22%20alt%3D%220000_index_homepage%22%20id%3D%220%22/%3E</map>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Title" x="341" y="0" w="-1" h="-1" measuredW="188" measuredH="62" zOrder="0" locked="false" isInGroup="0">
+          <controlProperties>
+            <color>472931</color>
+            <text>%u041D%u0430%u0437%u0432%u0430%u043D%u0438%u0435</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="62" w="904" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="0"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="1" y="408" w="-1" h="-1" measuredW="111" measuredH="48" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <href>a000_help%26bm%3Ba000_help.bmml%26bm%3Ba000_help.bmml%26bm%3Ba000_help.bmml</href>
+        <icon>HelpIcon%7Clarge</icon>
+        <labelPosition>right</labelPosition>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C395%2C111%2C443%22%20href%3D%22a000_help.bmml%22%20alt%3D%22a000_help%22%20id%3D%222%22/%3E</map>
+        <text>%u041F%u043E%u043C%u043E%u0449%u044C</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="18" y="490" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>700_schedule_services_selected_shown%26bm%3B700_schedule_services_selected_shown.bmml%26bm%3B700_schedule_services_selected_shown.bmml%26bm%3B700_schedule_services_selected_shown.bmml</href>
+        <icon>CartIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2217%2C477%2C137%2C502%22%20href%3D%22700_schedule_services_selected_shown.bmml%22%20alt%3D%22700_schedule_services_selected_shown%22%20id%3D%224%22/%3E</map>
+        <text>%5B%u043C%u043E%u0438%20%u043F%u043B%u0430%u043D%u044B%20%288%29%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="5" y="475" w="161" h="230" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::VRule" x="166" y="95" w="-1" h="610" measuredW="5" measuredH="100" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::IconLabel" x="18" y="530" w="139" h="-1" measuredW="107" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>e000_region%26bm%3Be000_region.bmml%26bm%3Be000_region.bmml%26bm%3Be000_region.bmml</href>
+        <icon>LinkGlobeIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2217%2C517%2C156%2C542%22%20href%3D%22e000_region.bmml%22%20alt%3D%22e000_region%22%20id%3D%228%22/%3E</map>
+        <text>%5B%u0433.%20%u0425%u0430%u0431%u0430%u0440%u043E%u0432%u0441%u043A%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::IconLabel" x="1" y="345" w="-1" h="-1" measuredW="162" measuredH="48" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <href>f000_partners%26bm%3Bf000_partners.bmml%26bm%3Bf000_partners.bmml%26bm%3Bf000_partners.bmml</href>
+        <icon>ArchiveIcon%7Clarge</icon>
+        <labelPosition>right</labelPosition>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C332%2C162%2C380%22%20href%3D%22f000_partners.bmml%22%20alt%3D%22f000_partners%22%20id%3D%229%22/%3E</map>
+        <text>%u0421%u0442%u0430%u0442%u044C%20%u043F%u0430%u0440%u0442%u043D%u0451%u0440%u043E%u043C</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Icon" x="18" y="674" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <icon>ThumbsUpIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Icon" x="62" y="674" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <icon>TwitterIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Icon" x="142" y="674" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <icon>FacebookIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Icon" x="102" y="674" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <icon>DeliciousIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::IconLabel" x="1" y="231" w="-1" h="-1" measuredW="122" measuredH="48" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <href>d000_login%26bm%3Bd000_login.bmml%26bm%3Bd000_login.bmml%26bm%3Bd000_login.bmml</href>
+        <icon>ContactIcon%7Clarge</icon>
+        <labelPosition>right</labelPosition>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C218%2C122%2C266%22%20href%3D%22d000_login.bmml%22%20alt%3D%22d000_login%22%20id%3D%2214%22/%3E</map>
+        <text>%u041D%u0430%u0441%u0442%u0440%u043E%u0438%u0442%u044C</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::IconLabel" x="1" y="288" w="-1" h="-1" measuredW="167" measuredH="48" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <href>g000_contacts%26bm%3Bg000_contacts.bmml%26bm%3Bg000_contacts.bmml%26bm%3Bg000_contacts.bmml</href>
+        <icon>TelephoneIcon%7Clarge</icon>
+        <labelPosition>right</labelPosition>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C275%2C167%2C323%22%20href%3D%22g000_contacts.bmml%22%20alt%3D%22g000_contacts%22%20id%3D%2218%22/%3E</map>
+        <text>%u0421%u0432%u044F%u0437%u0430%u0442%u044C%u0441%u044F%20%u0441%20%u043D%u0430%u043C%u0438</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::IconLabel" x="1" y="175" w="-1" h="-1" measuredW="148" measuredH="48" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <href>_000_select_service_type%26bm%3B_000_select_service_type.bmml%26bm%3B_000_select_service_type.bmml%26bm%3B_000_select_service_type.bmml</href>
+        <icon>CalendarIcon%7Clarge</icon>
+        <labelPosition>right</labelPosition>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C162%2C148%2C210%22%20href%3D%22_000_select_service_type.bmml%22%20alt%3D%22_000_select_service_type%22%20id%3D%2219%22/%3E</map>
+        <text>%u041D%u0430%u0447%u0430%u0442%u044C%20%u0437%u0430%u043F%u0438%u0441%u044C</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

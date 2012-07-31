@@ -1,0 +1,414 @@
+<mockup version="1.0" skin="sketch" measuredW="1208" measuredH="702" mockupW="1157" mockupH="692">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="51" y="10" w="1157" h="692" measuredW="1157" measuredH="692" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22253%2C0%2C1157%2C67%22%20href%3D%220000_index_homepage.bmml%22%20alt%3D%220000_index_homepage%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C395%2C111%2C443%22%20href%3D%22a000_help.bmml%22%20alt%3D%22a000_help%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2217%2C477%2C137%2C502%22%20href%3D%22700_schedule_services_selected_shown.bmml%22%20alt%3D%22700_schedule_services_selected_shown%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2217%2C517%2C156%2C542%22%20href%3D%22e000_region.bmml%22%20alt%3D%22e000_region%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C332%2C162%2C380%22%20href%3D%22f000_partners.bmml%22%20alt%3D%22f000_partners%22%20id%3D%229%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C218%2C122%2C266%22%20href%3D%22d000_login.bmml%22%20alt%3D%22d000_login%22%20id%3D%2214%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C275%2C167%2C323%22%20href%3D%22g000_contacts.bmml%22%20alt%3D%22g000_contacts%22%20id%3D%2218%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C162%2C148%2C210%22%20href%3D%22_000_select_service_type.bmml%22%20alt%3D%22_000_select_service_type%22%20id%3D%2219%22/%3E</map>
+        <override controlID="1:1" x="0" y="86" w="61" h="389"/>
+        <src>./assets/background.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="__group__" x="846" y="115" w="217" h="576" measuredW="217" measuredH="576" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="217" h="576" measuredW="217" measuredH="576" zOrder="0" locked="false" isInGroup="24">
+          <controlProperties>
+            <override controlID="0" x="0" y="0" w="217" h="576"/>
+            <override controlID="0:1" x="14" y="48" w="187" h="-1"/>
+            <override controlID="0:2" x="22" y="10" w="179" h="43">
+              <text>%u0421%u043F%u0438%u0441%u043E%u043A%20%u0441%u043F%u0435%u0446%u0438%u0430%u043B%u0438%u0441%u0442%u043E%u0432</text>
+            </override>
+            <override controlID="0:0" x="0" y="0" w="217" h="576"/>
+            <src>./assets/panel_small.bmml</src>
+          </controlProperties>
+        </control>
+        <control controlID="35" controlTypeID="__group__" x="23" y="52" w="151" h="38" measuredW="151" measuredH="38" zOrder="1" locked="false" isInGroup="24">
+          <controlProperties>
+            <href>_400_hospital_before_schedule%26bm%3B_400_hospital_before_schedule.bmml%26bm%3B_400_hospital_before_schedule.bmml%26bm%3B_400_hospital_before_schedule.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22818%2C157%2C969%2C195%22%20href%3D%22_400_hospital_before_schedule.bmml%22%20alt%3D%22_400_hospital_before_schedule%22%20id%3D%2235%22/%3E</map>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Paragraph" x="28" y="0" w="123" h="18" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="35">
+              <controlProperties>
+                <color>6710886</color>
+                <text>%u0422%u0435%u0440%u0430%u043F%u0435%u0432%u0442</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="33" w="151" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="35">
+              <controlProperties>
+                <color>10066329</color>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="2" y="6" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="35">
+              <controlProperties>
+                <color>6989903</color>
+                <icon>ThumbnailsIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="36" controlTypeID="__group__" x="23" y="90" w="151" h="38" measuredW="151" measuredH="38" zOrder="2" locked="false" isInGroup="24">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Paragraph" x="28" y="0" w="123" h="18" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="36">
+              <controlProperties>
+                <color>6710886</color>
+                <text>%u041A%u0430%u0440%u0434%u0438%u043E%u043B%u043E%u0433</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="33" w="151" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="36">
+              <controlProperties>
+                <color>10066329</color>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="2" y="6" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="36">
+              <controlProperties>
+                <color>6989903</color>
+                <icon>ThumbnailsIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="37" controlTypeID="__group__" x="23" y="128" w="151" h="38" measuredW="151" measuredH="38" zOrder="3" locked="false" isInGroup="24">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Paragraph" x="28" y="0" w="123" h="18" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="37">
+              <controlProperties>
+                <color>6710886</color>
+                <text>%u041D%u0435%u0432%u0440%u043E%u043B%u043E%u0433</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="33" w="151" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="37">
+              <controlProperties>
+                <color>10066329</color>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="2" y="6" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="37">
+              <controlProperties>
+                <color>6989903</color>
+                <icon>ThumbnailsIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="38" controlTypeID="__group__" x="23" y="166" w="151" h="38" measuredW="151" measuredH="38" zOrder="4" locked="false" isInGroup="24">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Paragraph" x="28" y="0" w="123" h="18" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="38">
+              <controlProperties>
+                <color>6710886</color>
+                <text>%u0425%u0438%u0440%u0443%u0440%u0433</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="33" w="151" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="38">
+              <controlProperties>
+                <color>10066329</color>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="2" y="6" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="38">
+              <controlProperties>
+                <color>6989903</color>
+                <icon>ThumbnailsIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="39" controlTypeID="__group__" x="23" y="204" w="151" h="38" measuredW="151" measuredH="38" zOrder="5" locked="false" isInGroup="24">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Paragraph" x="28" y="0" w="123" h="18" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="39">
+              <controlProperties>
+                <color>6710886</color>
+                <text>%u041E%u0444%u0442%u0430%u043B%u044C%u043C%u043E%u043B%u043E%u0433</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="33" w="151" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="39">
+              <controlProperties>
+                <color>10066329</color>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="2" y="6" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="39">
+              <controlProperties>
+                <color>6989903</color>
+                <icon>ThumbnailsIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="40" controlTypeID="__group__" x="23" y="242" w="151" h="38" measuredW="151" measuredH="38" zOrder="6" locked="false" isInGroup="24">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Paragraph" x="28" y="0" w="123" h="18" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="40">
+              <controlProperties>
+                <color>6710886</color>
+                <text>%u041E%u0442%u043E%u043B%u0430%u0440%u0438%u043D%u0433%u043E%u043B%u043E%u0433</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="33" w="151" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="40">
+              <controlProperties>
+                <color>10066329</color>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="2" y="6" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="40">
+              <controlProperties>
+                <color>6989903</color>
+                <icon>ThumbnailsIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="41" controlTypeID="__group__" x="23" y="280" w="151" h="38" measuredW="151" measuredH="38" zOrder="7" locked="false" isInGroup="24">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Paragraph" x="28" y="0" w="123" h="18" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="41">
+              <controlProperties>
+                <color>6710886</color>
+                <text>%u0414%u0435%u0440%u043C%u0430%u0442%u043E%u0432%u0435%u043D%u0435%u0440%u043E%u043B%u043E%u0433</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="33" w="151" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="41">
+              <controlProperties>
+                <color>10066329</color>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="2" y="6" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="41">
+              <controlProperties>
+                <color>6989903</color>
+                <icon>ThumbnailsIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="42" controlTypeID="__group__" x="23" y="318" w="151" h="38" measuredW="151" measuredH="38" zOrder="8" locked="false" isInGroup="24">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Paragraph" x="28" y="0" w="123" h="18" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="42">
+              <controlProperties>
+                <color>6710886</color>
+                <text>%u0410%u043A%u0443%u0448%u0435%u0440-%u0433%u0438%u043D%u0435%u043A%u043E%u043B%u043E%u0433</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="33" w="151" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="42">
+              <controlProperties>
+                <color>10066329</color>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="2" y="6" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="42">
+              <controlProperties>
+                <color>6989903</color>
+                <icon>ThumbnailsIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="43" controlTypeID="__group__" x="23" y="356" w="151" h="38" measuredW="151" measuredH="38" zOrder="9" locked="false" isInGroup="24">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Paragraph" x="28" y="0" w="123" h="18" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="43">
+              <controlProperties>
+                <color>6710886</color>
+                <text>%u041F%u0441%u0438%u0445%u0438%u0430%u0442%u0440</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="33" w="151" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="43">
+              <controlProperties>
+                <color>10066329</color>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="2" y="6" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="43">
+              <controlProperties>
+                <color>6989903</color>
+                <icon>ThumbnailsIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="44" controlTypeID="__group__" x="23" y="394" w="151" h="38" measuredW="151" measuredH="38" zOrder="10" locked="false" isInGroup="24">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Paragraph" x="28" y="0" w="123" h="18" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="44">
+              <controlProperties>
+                <color>6710886</color>
+                <text>%u041F%u0440%u043E%u0444%u043F%u0430%u0442%u043E%u043B%u043E%u0433</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="33" w="151" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="44">
+              <controlProperties>
+                <color>10066329</color>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="2" y="6" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="44">
+              <controlProperties>
+                <color>6989903</color>
+                <icon>ThumbnailsIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Component" x="589" y="239" w="217" h="54" measuredW="217" measuredH="54" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="217" h="54"/>
+        <src>./assets/selector.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="__group__" x="589" y="115" w="217" h="576" measuredW="217" measuredH="576" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="217" h="576" measuredW="217" measuredH="576" zOrder="0" locked="false" isInGroup="29">
+          <controlProperties>
+            <override controlID="0" x="0" y="0" w="217" h="576"/>
+            <override controlID="0:1" x="14" y="48" w="187" h="-1"/>
+            <override controlID="0:2" x="60" y="10" w="112" h="43">
+              <text>%u0412%u0438%u0434%u044B%20%u0443%u0441%u043B%u0443%u0433</text>
+            </override>
+            <override controlID="0:0" x="0" y="0" w="217" h="576"/>
+            <src>./assets/panel_small.bmml</src>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="25" y="52" w="182" h="80" measuredW="182" measuredH="80" zOrder="1" locked="false" isInGroup="29">
+          <controlProperties>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22563%2C157%2C745%2C237%22%20href%3D%22100_select_medcomissii.bmml%22%20alt%3D%22100_select_medcomissii%22%20id%3D%224%22/%3E</map>
+            <override controlID="0" x="0" y="0" w="164" h="53">
+              <href>100_select_packet%26bm%3B100_select_packet.bmml%26bm%3B100_select_packet.bmml%26bm%3B100_select_packet.bmml</href>
+            </override>
+            <override controlID="4" x="0" y="0" w="182" h="80">
+              <href>100_select_medcomissii%26bm%3B100_select_medcomissii.bmml%26bm%3B100_select_medcomissii.bmml%26bm%3B100_select_medcomissii.bmml</href>
+            </override>
+            <override controlID="0:3" x="13" y="48" w="151" h="-1"/>
+            <override controlID="0:2" x="0" y="5" w="-1" h="-1"/>
+            <override controlID="4:2" x="40" y="27" w="142" h="43">
+              <text>%u0421%u0430%u043D%u043A%u043D%u0438%u0436%u043A%u0430%2C%20%u043D%u0430%20%u043F%u0440%u0430%u0432%u0430%20%u0438%20%u0434%u0440.</text>
+            </override>
+            <override controlID="4:1:2" x="0" y="5" w="-1" h="-1"/>
+            <override controlID="0:0" x="40" y="0" w="124" h="28">
+              <text>%u041F%u0430%u043A%u0435%u0442%u044B%20%u0443%u0441%u043B%u0443%u0433</text>
+            </override>
+            <override controlID="4:1" x="0" y="0" w="167" h="37"/>
+            <override controlID="4:0:3" x="0" y="0" w="151" h="-1"/>
+            <override controlID="4:1:0" x="40" y="0" w="127" h="28">
+              <text>%u041C%u0435%u0434%u043A%u043E%u043C%u0438%u0441%u0441%u0438%u0438</text>
+            </override>
+            <override controlID="4:0" x="0" y="70" w="151" h="10"/>
+            <src>./assets/menu_element.bmml</src>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Component" x="25" y="122" w="188" h="61" measuredW="188" measuredH="61" zOrder="2" locked="false" isInGroup="29">
+          <controlProperties>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22563%2C227%2C751%2C288%22%20href%3D%22b100_select_specialist.bmml%22%20alt%3D%22b100_select_specialist%22%20id%3D%224%22/%3E</map>
+            <override controlID="0" x="0" y="0" w="164" h="53">
+              <href>b100_select_specialist%26bm%3Bb100_select_specialist.bmml%26bm%3Bb100_select_specialist.bmml%26bm%3Bb100_select_specialist.bmml</href>
+            </override>
+            <override controlID="4" x="0" y="0" w="188" h="61">
+              <href>b100_select_specialist%26bm%3Bb100_select_specialist.bmml%26bm%3Bb100_select_specialist.bmml%26bm%3Bb100_select_specialist.bmml</href>
+            </override>
+            <override controlID="0:3" x="13" y="48" w="151" h="-1"/>
+            <override controlID="0:2" x="0" y="5" w="-1" h="-1"/>
+            <override controlID="4:2" x="40" y="27" w="148" h="34">
+              <text>%u0412%u0438%u0437%u0438%u0442%20%u043A%20%u0432%u0440%u0430%u0447%u0443</text>
+            </override>
+            <override controlID="4:1:2" x="0" y="5" w="-1" h="-1"/>
+            <override controlID="0:0" x="40" y="0" w="124" h="28">
+              <text>C%u043F%u0435%u0446%u0438%u0430%u043B%u0438%u0441%u0442%u044B</text>
+            </override>
+            <override controlID="4:1" x="0" y="0" w="163" h="37"/>
+            <override controlID="4:0:3" x="0" y="0" w="151" h="-1"/>
+            <override controlID="4:1:0" x="40" y="0" w="123" h="28">
+              <text>%u0421%u043F%u0435%u0446%u0438%u0430%u043B%u0438%u0441%u0442%u044B</text>
+            </override>
+            <override controlID="4:0" x="0" y="51" w="151" h="10"/>
+            <src>./assets/menu_element.bmml</src>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Component" x="25" y="183" w="188" h="76" measuredW="188" measuredH="76" zOrder="3" locked="false" isInGroup="29">
+          <controlProperties>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22563%2C288%2C751%2C364%22%20href%3D%22h100_select_hospital_first.bmml%22%20alt%3D%22h100_select_hospital_first%22%20id%3D%224%22/%3E</map>
+            <override controlID="0" x="0" y="0" w="164" h="53">
+              <href>b100_select_specialist%26bm%3Bb100_select_specialist.bmml%26bm%3Bb100_select_specialist.bmml%26bm%3Bb100_select_specialist.bmml</href>
+            </override>
+            <override controlID="4" x="0" y="0" w="188" h="76">
+              <href>h100_select_hospital_first%26bm%3Bh100_select_hospital_first.bmml%26bm%3Bh100_select_hospital_first.bmml%26bm%3Bh100_select_hospital_first.bmml</href>
+            </override>
+            <override controlID="0:3" x="13" y="48" w="151" h="-1"/>
+            <override controlID="0:2" x="0" y="5" w="-1" h="-1"/>
+            <override controlID="4:2" x="40" y="27" w="148" h="49">
+              <text>%u0412%u044B%u0431%u043E%u0440%20%u043A%u043E%u043D%u043A%u0440%u0435%u0442%u043D%u043E%u0439%20%u0431%u043E%u043B%u044C%u043D%u0438%u0446%u044B</text>
+            </override>
+            <override controlID="4:1:2" x="0" y="5" w="-1" h="-1"/>
+            <override controlID="0:0" x="40" y="0" w="124" h="28">
+              <text>C%u043F%u0435%u0446%u0438%u0430%u043B%u0438%u0441%u0442%u044B</text>
+            </override>
+            <override controlID="4:1" x="0" y="0" w="163" h="37"/>
+            <override controlID="4:0:3" x="0" y="0" w="151" h="5"/>
+            <override controlID="4:1:0" x="40" y="0" w="123" h="28">
+              <text>%u0411%u043E%u043B%u044C%u043D%u0438%u0446%u044B</text>
+            </override>
+            <override controlID="4:0" x="0" y="65" w="151" h="11"/>
+            <src>./assets/menu_element.bmml</src>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="30" controlTypeID="__group__" x="334" y="117" w="217" h="576" measuredW="217" measuredH="576" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="217" h="576" measuredW="217" measuredH="576" zOrder="0" locked="false" isInGroup="30">
+          <controlProperties>
+            <override controlID="0" x="0" y="0" w="217" h="576"/>
+            <override controlID="0:1" x="14" y="48" w="187" h="-1"/>
+            <override controlID="0:2" x="60" y="10" w="112" h="43">
+              <text>%u0422%u0438%u043F%u044B%20%u0443%u0441%u043B%u0443%u0433</text>
+            </override>
+            <override controlID="0:0" x="0" y="0" w="217" h="576"/>
+            <src>./assets/panel_small.bmml</src>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="25" y="52" w="191" h="61" measuredW="191" measuredH="61" zOrder="1" locked="false" isInGroup="30">
+          <controlProperties>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22308%2C159%2C499%2C220%22%20href%3D%22000_select_service_category.bmml%22%20alt%3D%22000_select_service_category%22%20id%3D%224%22/%3E</map>
+            <override controlID="0" x="0" y="0" w="164" h="53">
+              <href>100_select_packet%26bm%3B100_select_packet.bmml%26bm%3B100_select_packet.bmml%26bm%3B100_select_packet.bmml</href>
+            </override>
+            <override controlID="4" x="0" y="0" w="191" h="61">
+              <href>000_select_service_category%26bm%3B000_select_service_category.bmml%26bm%3B000_select_service_category.bmml%26bm%3B000_select_service_category.bmml</href>
+            </override>
+            <override controlID="0:2" x="0" y="5" w="-1" h="-1"/>
+            <override controlID="0:3" x="13" y="48" w="151" h="-1"/>
+            <override controlID="4:2" x="40" y="27" w="151" h="34">
+              <text>%u041C%u0435%u0434%u0438%u0446%u0438%u043D%u0441%u043A%u0438%u0435%20%u0443%u0441%u043B%u0443%u0433%u0438</text>
+            </override>
+            <override controlID="4:1:2" x="0" y="5" w="-1" h="-1"/>
+            <override controlID="0:0" x="40" y="0" w="124" h="28">
+              <text>%u041F%u0430%u043A%u0435%u0442%u044B%20%u0443%u0441%u043B%u0443%u0433</text>
+            </override>
+            <override controlID="4:1" x="0" y="0" w="183" h="37"/>
+            <override controlID="4:0:3" x="0" y="0" w="151" h="-1"/>
+            <override controlID="4:1:0" x="40" y="0" w="143" h="28">
+              <text>%u041C%u0435%u0434.%20%u0443%u0447%u0440%u0435%u0436%u0434%u0435%u043D%u0438%u044F</text>
+            </override>
+            <override controlID="4:0" x="0" y="51" w="151" h="10"/>
+            <src>./assets/menu_element.bmml</src>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="25" y="104" w="188" h="61" measuredW="188" measuredH="61" zOrder="2" locked="false" isInGroup="30">
+          <controlProperties>
+            <override controlID="0" x="0" y="0" w="164" h="53">
+              <href>b100_select_specialist%26bm%3Bb100_select_specialist.bmml%26bm%3Bb100_select_specialist.bmml%26bm%3Bb100_select_specialist.bmml</href>
+            </override>
+            <override controlID="4" x="0" y="0" w="188" h="61"/>
+            <override controlID="4:1:2" x="0" y="5" w="-1" h="-1"/>
+            <override controlID="4:0:3" x="0" y="0" w="151" h="-1"/>
+            <override controlID="4:2" x="40" y="27" w="148" h="34">
+              <text>%u0421%u0442%u0440%u0438%u0436%u043A%u0438%2C%20%u0443%u0445%u043E%u0434%20%u0437%u0430%20%u0432%u043E%u043B%u043E%u0441%u0430%u043C%u0438</text>
+            </override>
+            <override controlID="0:3" x="13" y="48" w="151" h="-1"/>
+            <override controlID="0:0" x="40" y="0" w="124" h="28">
+              <text>C%u043F%u0435%u0446%u0438%u0430%u043B%u0438%u0441%u0442%u044B</text>
+            </override>
+            <override controlID="4:1" x="0" y="0" w="182" h="37"/>
+            <override controlID="0:2" x="0" y="5" w="-1" h="-1"/>
+            <override controlID="4:1:0" x="40" y="0" w="142" h="28">
+              <text>%u041F%u0430%u0440%u0438%u043A%u043C%u0430%u0445%u0435%u0440%u0441%u043A%u0438%u0435</text>
+            </override>
+            <override controlID="4:0" x="0" y="51" w="151" h="10"/>
+            <src>./assets/menu_element.bmml</src>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Component" x="336" y="166" w="215" h="55" measuredW="215" measuredH="55" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="215" h="55"/>
+        <src>./assets/selector.bmml</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

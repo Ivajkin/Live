@@ -1,0 +1,129 @@
+.block_select{	
+	cursor: pointer;
+	background: url('../images/select-temp.png') repeat;
+	z-index:200;
+	position: relative;
+}
+.block_select_mem{	
+	cursor: pointer;
+	background: url('../images/select-selected.png') repeat;
+	z-index:200;
+}
+/*Input text*/
+.input-header {
+	font-size: 11px;
+	/*color: #454545;*/
+}
+.input-description {
+	margin-top: 4px;
+}
+
+.input_block, .select_block{
+	text-align:center;
+	margin-top: 4px;
+}
+.input_block input{
+	/*background-color:#D8D8D8;*/
+	background:none;
+	border:none;
+	width:100%;
+	height:15px;
+	color:#616161;
+	line-height:normal;
+	font-family: 'Neucha' !important;
+	font-size: 12px;
+	outline: none;
+	/*padding:0 0 0 10px;*/
+	padding-top: 4px;
+}
+
+.left-input{
+	display: inline-block;
+	background:url('../images/controls/edit-left.png') left top no-repeat;
+	width:70%;
+}
+.right-input{
+	background:url('../images/controls/edit-right.png') right top no-repeat;
+	padding:0 6px 0 5px;
+}
+
+.fill-input{
+	width:100%;
+	border:none;
+	height:26px;
+	background:url('../images/controls/edit-center.png') top repeat-x;
+}
+
+.left-input:hover{
+	background:url('../images/controls/edit-left.png') left bottom no-repeat;
+}
+.left-input:hover .right-input{
+	background:url('../images/controls/edit-right.png') right bottom no-repeat;
+}
+.left-input:hover .fill-input{
+	background:url('../images/controls/edit-center.png') bottom repeat-x;
+}
+/*END Input text*/
+/*Select block*/
+.select_block span{
+	display: inline-block;
+    margin-top: 3px;
+    vertical-align: middle;
+}
+
+.select_block select{
+	position: relative;
+    visibility: visible;
+	width:70%;
+	margin-left: -70%;
+	height:20px;
+	top:0px;
+	vertical-align: top;
+	opacity: 0.01;
+	
+	background: url('../images/controls/edit-center.png') no-repeat scroll left center #F3F3F3;
+	color:#616161;
+	font-family:'Lucida Grande', 'Lucida Sans Unicode', Jamrul, verdana, arial, 'MS Gothic';
+	font-size: 10px;
+	outline: none;
+}	
+/*END Select block*/
+/*Block*/
+.block .content{
+	/*padding: 5px 0;*/
+	padding-top: 5px;
+	padding-bottom: 5px;
+	word-wrap: break-word;
+	display:table;
+	width:100%;
+}
+
+.block .header{
+	font-size:12px;
+	color:#454545;
+	padding-bottom:4px;	
+	text-align:left;
+}
+
+/*PaddingLR*/
+.block .body{
+	display:table-cell;
+}
+
+.standart_block .icon{	
+	display:table-cell;
+	vertical-align: top;
+	text-align:center;
+	width:32px;
+	padding: 0 7px 0 7px;
+}
+
+.unselectable{
+ /* Disable selection */
+   -webkit-user-select: none;
+   -khtml-user-select: none;
+   -moz-user-select: none;
+   -o-user-select: none;
+   user-select: none;
+}
+/*End block*/

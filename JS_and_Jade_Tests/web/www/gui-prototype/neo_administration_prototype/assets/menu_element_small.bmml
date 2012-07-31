@@ -1,0 +1,20 @@
+<mockup version="1.0" skin="sketch" measuredW="267" measuredH="195" mockupW="151" mockupH="28">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="116" y="167" w="151" h="28" measuredW="151" measuredH="28" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties/>
+      <groupChildrenDescriptors>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="13" y="0" w="123" h="18" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="0">
+          <controlProperties>
+            <color>6710886</color>
+            <text>Menu%20Item</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="23" w="151" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="0">
+          <controlProperties>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

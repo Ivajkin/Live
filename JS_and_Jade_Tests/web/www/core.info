@@ -1,0 +1,3 @@
+./core - текущая для yapozapisi версия WebUI, на которой гарантированно всё запускается, мерджится с yapozapisi.
+./core.submodule - самая последняя версия WebUI, подключена через сабмодуль, обновляется через 'cd ./core.submodule & git pull'.
+./core.info - этот файл.

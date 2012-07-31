@@ -1,0 +1,25 @@
+<mockup version="1.0" skin="sketch" measuredW="1255" measuredH="728" mockupW="1237" mockupH="712">
+  <controls>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Component" x="468" y="195" w="552" h="470" measuredW="552" measuredH="470" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="9">
+          <href>100_service_1%28by_service_packets%29%26bm%3B100_service_1%28by_service_packets%29.bmml%26bm%3B100_service_1%28by_service_packets%29.bmml%26bm%3B100_service_1%28by_service_packets%29.bmml</href>
+        </override>
+        <override controlID="11">
+          <href>050_region_2%28custom%29%26bm%3B050_region_2%28custom%29.bmml%26bm%3B050_region_2%28custom%29.bmml%26bm%3B050_region_2%28custom%29.bmml</href>
+        </override>
+        <src>./assets/region_auto_panel.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Component" x="48" y="195" w="320" h="470" measuredW="320" measuredH="470" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/main_navigation_social.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Component" x="18" y="16" w="1237" h="712" measuredW="1237" measuredH="712" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#main_background</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

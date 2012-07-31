@@ -1,0 +1,107 @@
+<mockup version="1.0" skin="sketch" measuredW="1249" measuredH="785" mockupW="1237" mockupH="768">
+  <controls>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Component" x="961" y="148" w="278" h="520" measuredW="278" measuredH="520" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221020%2C534%2C1214%2C613%22%20href%3D%22schedule_1%28select_time_and_place%29.bmml%22%20alt%3D%22schedule_1%28select_time_and_place%29%22%20id%3D%229%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221123%2C386%2C1205%2C414%22%20href%3D%22schedule_1%28select_time_and_place%29.bmml%22%20alt%3D%22schedule_1%28select_time_and_place%29%22%20id%3D%2241%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221123%2C487%2C1205%2C515%22%20href%3D%22schedule_1%28select_time_and_place%29.bmml%22%20alt%3D%22schedule_1%28select_time_and_place%29%22%20id%3D%2245%22/%3E</map>
+        <src>./assets/services_selected_right_panel.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Component" x="12" y="17" w="1237" h="712" measuredW="1237" measuredH="712" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#main_background</src>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Component" x="44" y="192" w="320" h="470" measuredW="320" measuredH="470" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/main_navigation_social.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Component" x="212" y="151" w="647" h="515" measuredW="647" measuredH="515" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22578%2C277%2C680%2C303%22%20href%3D%22200_service_settings1.bmml%22%20alt%3D%22200_service_settings1%22%20id%3D%2238%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22579%2C421%2C733%2C447%22%20href%3D%22service_settings1.bmml%22%20alt%3D%22service_settings1%22%20id%3D%2244%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22580%2C496%2C654%2C522%22%20href%3D%22service_settings1.bmml%22%20alt%3D%22service_settings1%22%20id%3D%2250%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22579%2C570%2C622%2C596%22%20href%3D%22service_settings1.bmml%22%20alt%3D%22service_settings1%22%20id%3D%2254%22/%3E</map>
+        <override controlID="10" x="0" y="45" w="250" h="470"/>
+        <override controlID="11" x="6" y="89" w="238" h="70">
+          <color>16777215</color>
+        </override>
+        <override controlID="12" x="0" y="46" w="250" h="42"/>
+        <override controlID="13" x="15" y="48" w="220" h="-1"/>
+        <override controlID="14" x="15" y="100" w="-1" h="-1"/>
+        <override controlID="16" x="6" y="235" w="238" h="70">
+          <color>13421772</color>
+        </override>
+        <override controlID="17" x="15" y="246" w="-1" h="-1"/>
+        <override controlID="18" x="175" y="121" w="211" h="60"/>
+        <override controlID="19" x="189" y="281" w="122" h="53"/>
+        <override controlID="20" x="6" y="161" w="238" h="70"/>
+        <override controlID="21" x="15" y="172" w="-1" h="-1"/>
+        <override controlID="22" x="189" y="196" w="143" h="85"/>
+        <override controlID="26" x="311" y="45" w="252" h="470"/>
+        <override controlID="27" x="311" y="46" w="252" h="42"/>
+        <override controlID="28" x="326" y="48" w="222" h="40"/>
+        <override controlID="29" x="436" y="0" w="211" h="60"/>
+        <override controlID="30" x="314" y="96" w="148" h="25"/>
+        <override controlID="32" x="547" y="86" w="16" h="428"/>
+        <override controlID="36" x="316" y="130" w="231" h="66"/>
+        <override controlID="37" x="328" y="141" w="45" h="48"/>
+        <override controlID="38" x="378" y="143" w="102" h="26">
+          <href>200_service_settings1%26bm%3B200_service_settings1.bmml%26bm%3B200_service_settings1.bmml%26bm%3B200_service_settings1.bmml</href>
+          <text>%5B%u041A%u043E%u0436%u0430%5D</text>
+        </override>
+        <override controlID="39" x="316" y="196" w="230" h="70"/>
+        <override controlID="40" x="329" y="209" w="45" h="47"/>
+        <override controlID="41" x="380" y="211" w="105" h="26">
+          <text>%5B%u0413%u043E%u043B%u043E%u0432%u0430%20%u0438%20%u0448%u0435%u044F%5D</text>
+        </override>
+        <override controlID="42" x="316" y="266" w="229" h="85"/>
+        <override controlID="43" x="328" y="284" w="45" h="50"/>
+        <override controlID="44" x="379" y="287" w="154" h="26">
+          <text>%5B%u0413%u043B%u0430%u0437%u0430%20%u0438%20%u0443%u0448%u0438%5D</text>
+        </override>
+        <override controlID="45" x="383" y="310" w="180" h="41">
+          <text>...</text>
+        </override>
+        <override controlID="46" x="384" y="239" w="180" h="42">
+          <text>...</text>
+        </override>
+        <override controlID="47" x="384" y="172" w="180" h="42">
+          <text>...</text>
+        </override>
+        <override controlID="48" x="317" y="353" w="225" h="72"/>
+        <override controlID="49" x="326" y="362" w="47" h="48"/>
+        <override controlID="50" x="380" y="362" w="-1" h="-1">
+          <text>%u041D%u043E%u0441%20%u0438%20%u0440%u043E%u0442</text>
+        </override>
+        <override controlID="51" x="385" y="386" w="205" h="42">
+          <text>...</text>
+        </override>
+        <override controlID="52" x="317" y="425" w="231" h="72"/>
+        <override controlID="53" x="327" y="434" w="47" h="48"/>
+        <override controlID="54" x="379" y="436" w="43" h="26">
+          <text>%u0413%u0440%u0443%u0434%u044C</text>
+        </override>
+        <override controlID="55" x="384" y="460" w="184" h="42">
+          <text>...</text>
+        </override>
+        <src>./assets/main_service_panel.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::StickyNote" x="12" y="662" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u0447%u0430%u0441%u0442%u0438%20%u0442%u0435%u043B%u0430%3A%0A%5B%u041A%u043E%u0436%u0430%5D%0A%5B%u0413%u043E%u043B%u043E%u0432%u0430%20%u0438%20%u0428%u0435%u044F%5D%0A%5B%u0413%u043B%u0430%u0437%u0430%20%u0438%20%u0423%u0448%u0438%5D%0A%5B%u041D%u043E%u0441%20%u0438%20%u0420%u043E%u0442%5D%0A%5B%u0413%u0440%u0443%u0434%u044C%5D%0A%5B%u0421%u043F%u0438%u043D%u0430%5D%0A%5B%u0420%u0443%u043A%u0438%20%u0438%20%u041A%u0438%u0441%u0442%u0438%5D%0A%5B%u0416%u0438%u0432%u043E%u0442%5D%0A%5B%u041C%u0443%u0436%u0441%u043A%u0438%u0435%20%u041F%u043E%u043B%u043E%u0432%u044B%u0435%20%u041E%u0440%u0433%u0430%u043D%u044B%5D%0A%5B%u042F%u0433%u043E%u0434%u0438%u0446%u044B%5D%0A%5B%u041D%u043E%u0433%u0438%20%u0438%20%u0421%u0442%u0443%u043F%u043D%u0438%5D%0A%20%0A%u0434%u0440%u0443%u0433%u0438%u0435%20%u043F%u0440%u043E%u0431%u043B%u0435%u043C%u044B%3A%0A%5B%u041F%u0441%u0438%u0445%u0438%u0447%u0435%u0441%u043A%u043E%u0435%20%u0437%u0434%u043E%u0440%u043E%u0432%u044C%u0435%5D%0A%5B%u0424%u0438%u0437%u0438%u0447%u0435%u0441%u043A%u043E%u0435%20%u0437%u0434%u043E%u0440%u043E%u0432%u044C%u0435%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::StickyNote" x="803" y="217" w="193" h="105" measuredW="109" measuredH="123" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>%u041D%u0430%20%u0441%u0430%u043C%u043E%u043C%20%u0434%u0435%u043B%u0435%20%u044D%u0442%u043E%20%u0441%u0438%u043D%u043E%u043D%u0438%u043C%u044B%20%u0434%u043B%u044F%20%u0442%u0430%u043A%u0438%u0445%20%u0443%u0441%u043B%u0443%u0433%20%u043A%u0430%u043A%20%u043D%u0430%u043F%u0440%u0438%u043C%u0435%u0440%3A%0A%u0442%u0435%u0440%u0430%u043F%u0435%u0432%u0442%2C%20%u043E%u0431%u0449%u0438%u0439%20%u043E%u0441%u043C%u043E%u0442%u0440</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Arrow" x="682" y="247" w="132" h="67" measuredW="150" measuredH="100" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

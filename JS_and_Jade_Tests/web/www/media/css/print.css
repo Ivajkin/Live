@@ -1,0 +1,14 @@
+/* Делаем заголовок с логотипом, левый сайдбар и тултип невидимыми */
+#header, #footer, #outer div.left, #tooltip, .unit.narrow {
+	display: none;
+}
+.printable, .for_printer_only {
+	display: block
+}
+.unit.wide {
+	font-size: 15px;
+	top: 100px;
+}
+#registration_number_text {
+	font-size: 22px;
+}

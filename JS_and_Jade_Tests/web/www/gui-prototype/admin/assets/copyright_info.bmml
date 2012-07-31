@@ -1,0 +1,9 @@
+<mockup version="1.0" skin="sketch" measuredW="332" measuredH="171" mockupW="147" mockupH="24">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Paragraph" x="185" y="147" w="147" h="24" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Copyright%20%5Btncor.com%5D.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

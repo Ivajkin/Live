@@ -1,0 +1,133 @@
+<mockup version="1.0" skin="sketch" measuredW="1208" measuredH="702" mockupW="1157" mockupH="692">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="51" y="10" w="1157" h="692" measuredW="1157" measuredH="692" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22253%2C0%2C1157%2C67%22%20href%3D%220000_index_homepage.bmml%22%20alt%3D%220000_index_homepage%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C395%2C111%2C443%22%20href%3D%22a000_help.bmml%22%20alt%3D%22a000_help%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2217%2C477%2C137%2C502%22%20href%3D%22700_schedule_services_selected_shown.bmml%22%20alt%3D%22700_schedule_services_selected_shown%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2217%2C517%2C156%2C542%22%20href%3D%22e000_region.bmml%22%20alt%3D%22e000_region%22%20id%3D%228%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C332%2C162%2C380%22%20href%3D%22f000_partners.bmml%22%20alt%3D%22f000_partners%22%20id%3D%229%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C218%2C131%2C266%22%20href%3D%22d000_login.bmml%22%20alt%3D%22d000_login%22%20id%3D%2214%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C275%2C167%2C323%22%20href%3D%22g000_contacts.bmml%22%20alt%3D%22g000_contacts%22%20id%3D%2218%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C162%2C148%2C210%22%20href%3D%22_000_select_service_type.bmml%22%20alt%3D%22_000_select_service_type%22%20id%3D%2219%22/%3E</map>
+        <override controlID="1:1" x="0" y="86" w="61" h="389"/>
+        <src>./assets/background.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Component" x="451" y="120" w="217" h="576" measuredW="217" measuredH="576" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="217" h="576"/>
+        <override controlID="0:2" x="14" y="10" w="193" h="43">
+          <text>%u0420%u0430%u0441%u043F%u0438%u0441%u0430%u043D%u0438%u0435%20%u0441%u043E%u0442%u0440%u0443%u0434%u043D%u0438%u043A%u0430</text>
+        </override>
+        <override controlID="0:0" x="0" y="0" w="217" h="576"/>
+        <override controlID="0:1" x="14" y="48" w="187" h="-1"/>
+        <src>./assets/panel_small.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Component" x="463" y="171" w="193" h="84" measuredW="193" measuredH="84" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22412%2C161%2C605%2C245%22%20href%3D%22da800_administration_resource_schedule_main.bmml%22%20alt%3D%22da800_administration_resource_schedule_main%22%20id%3D%224%22/%3E</map>
+        <override controlID="4" x="0" y="0" w="193" h="84">
+          <href>da800_administration_resource_schedule_main%26bm%3Bda800_administration_resource_schedule_main.bmml%26bm%3Bda800_administration_resource_schedule_main.bmml%26bm%3Bda800_administration_resource_schedule_main.bmml</href>
+        </override>
+        <override controlID="4:0" x="15" y="74" w="151" h="10"/>
+        <override controlID="4:0:3" x="0" y="0" w="151" h="-1"/>
+        <override controlID="4:1:2" x="0" y="5" w="-1" h="-1"/>
+        <override controlID="4:1" x="0" y="0" w="193" h="37"/>
+        <override controlID="4:1:0" x="40" y="0" w="153" h="28">
+          <text>%u0420%u0430%u0431%u043E%u0447%u0430%u044F%20%u043D%u0435%u0434%u0435%u043B%u044F</text>
+        </override>
+        <override controlID="4:2" x="40" y="27" w="151" h="49">
+          <text>%u0420%u0430%u0441%u043F%u0438%u0441%u0430%u043D%u0438%u0435%20%u0441%u043E%u0442%u0440%u0443%u0434%u043D%u0438%u043A%u0430%20%u043D%u0430%20%u043D%u0435%u0434%u0435%u043B%u044E</text>
+        </override>
+        <src>./assets/menu_element.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Component" x="463" y="255" w="193" h="121" measuredW="193" measuredH="121" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22412%2C245%2C605%2C366%22%20href%3D%22db800_resource_schedule_categories.bmml%22%20alt%3D%22db800_resource_schedule_categories%22%20id%3D%224%22/%3E</map>
+        <override controlID="4" x="0" y="0" w="193" h="121">
+          <href>db800_resource_schedule_categories%26bm%3Bdb800_resource_schedule_categories.bmml%26bm%3Bdb800_resource_schedule_categories.bmml%26bm%3Bdb800_resource_schedule_categories.bmml</href>
+        </override>
+        <override controlID="4:0" x="20" y="111" w="151" h="10"/>
+        <override controlID="4:0:3" x="0" y="0" w="151" h="-1"/>
+        <override controlID="4:1:2" x="0" y="5" w="-1" h="-1"/>
+        <override controlID="4:1" x="0" y="0" w="193" h="52"/>
+        <override controlID="4:1:0" x="40" y="0" w="153" h="52">
+          <text>%u041F%u043B%u0430%u0432%u0430%u044E%u0449%u0438%u0439%20%u0433%u0440%u0430%u0444%u0438%u043A</text>
+        </override>
+        <override controlID="4:2" x="42" y="50" w="151" h="71">
+          <text>%u041D%u0435%u0441%u0442%u0430%u043D%u0434%u0430%u0440%u0442%u043D%u044B%u0439%20%u0433%u0440%u0430%u0444%u0438%u043A%2C%20%u0443%u0447%u0451%u0442%20%u043E%u0442%u043F%u0443%u0441%u043A%u043E%u0432%20%u0438%20%u0431%u043E%u043B%u0435%u0437%u043D%u0435%u0439</text>
+        </override>
+        <src>./assets/menu_element.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Component" x="451" y="244" w="215" h="132" measuredW="215" measuredH="132" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="215" h="132"/>
+        <src>./assets/selector.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="1113" controlTypeID="__group__" x="715" y="120" w="217" h="576" measuredW="217" measuredH="576" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="217" h="576" measuredW="217" measuredH="576" zOrder="0" locked="false" isInGroup="1113">
+          <controlProperties>
+            <override controlID="0" x="0" y="0" w="217" h="576"/>
+            <override controlID="0:2" x="29" y="10" w="157" h="43">
+              <text>%u041E%u0442%u043F%u0443%u0441%u043A%u0430%20%u0438%20%u0431%u043E%u043B%u0435%u0437%u043D%u0438</text>
+            </override>
+            <override controlID="0:0" x="0" y="0" w="217" h="576"/>
+            <override controlID="0:1" x="14" y="48" w="187" h="-1"/>
+            <src>./assets/panel_small.bmml</src>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="16" y="51" w="187" h="50" measuredW="187" measuredH="50" zOrder="1" locked="false" isInGroup="1113">
+          <controlProperties>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22680%2C161%2C867%2C211%22%20href%3D%22db900_resource_floating_calendar.bmml%22%20alt%3D%22db900_resource_floating_calendar%22%20id%3D%220%22/%3E</map>
+            <override controlID="0" x="0" y="0" w="187" h="50">
+              <href>db900_resource_floating_calendar%26bm%3Bdb900_resource_floating_calendar.bmml%26bm%3Bdb900_resource_floating_calendar.bmml%26bm%3Bdb900_resource_floating_calendar.bmml</href>
+            </override>
+            <override controlID="0:1" x="0" y="0" w="187" h="50">
+              <text>%u0441%203%20%u0434%u0435%u043A%u0430%u0431%u0440%u044F%202011%20%u043F%u043E%2012%20%u044F%u043D%u0432%u0430%u0440%u044F%202012</text>
+            </override>
+            <override controlID="0:3" x="0" y="45" w="151" h="-1"/>
+            <src>./assets/menu_element_small.bmml</src>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="16" y="101" w="187" h="50" measuredW="187" measuredH="50" zOrder="2" locked="false" isInGroup="1113">
+          <controlProperties>
+            <override controlID="0" x="0" y="0" w="187" h="50"/>
+            <override controlID="0:1" x="0" y="0" w="187" h="50">
+              <text>%u0441%205%20%u043C%u0430%u044F%202012%20%28%u0432%2011%3A00%29%20%u043F%u043E%205%20%u043C%u0430%u044F%202012%20%28%u0432%2013%3A00%29</text>
+            </override>
+            <override controlID="0:3" x="0" y="45" w="151" h="-1"/>
+            <src>./assets/menu_element_small.bmml</src>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Component" x="16" y="151" w="187" h="50" measuredW="187" measuredH="50" zOrder="3" locked="false" isInGroup="1113">
+          <controlProperties>
+            <override controlID="0" x="0" y="0" w="187" h="50"/>
+            <override controlID="0:1" x="0" y="0" w="187" h="50">
+              <text>%u0441%207%20%u0438%u044E%u043D%u044F%202012%20%u043F%u043E%205%20%u0438%u044E%u043B%u044F%202012</text>
+            </override>
+            <override controlID="0:3" x="0" y="45" w="151" h="-1"/>
+            <src>./assets/menu_element_small.bmml</src>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Component" x="18" y="204" w="178" h="118" measuredW="178" measuredH="118" zOrder="4" locked="false" isInGroup="1113">
+          <controlProperties>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22682%2C314%2C860%2C432%22%20href%3D%22db900_resource_floating_calendar.bmml%22%20alt%3D%22db900_resource_floating_calendar%22%20id%3D%224%22/%3E</map>
+            <override controlID="4" x="0" y="0" w="178" h="118">
+              <href>db900_resource_floating_calendar%26bm%3Bdb900_resource_floating_calendar.bmml%26bm%3Bdb900_resource_floating_calendar.bmml%26bm%3Bdb900_resource_floating_calendar.bmml</href>
+            </override>
+            <override controlID="4:0" x="0" y="113" w="141" h="5"/>
+            <override controlID="4:0:3" x="0" y="0" w="141" h="5"/>
+            <override controlID="4:1:2" x="0" y="5" w="32" h="32"/>
+            <override controlID="4:1" x="0" y="0" w="117" h="37"/>
+            <override controlID="4:1:0" x="37" y="0" w="80" h="28">
+              <text>%u0414%u043E%u0431%u0430%u0432%u0438%u0442%u044C</text>
+            </override>
+            <override controlID="4:2" x="37" y="27" w="141" h="86">
+              <text>%u041E%u0442%u043C%u0435%u0442%u0438%u0442%u044C%20%u043E%u0442%u043F%u0443%u0441%u043A%2C%20%u0431%u043E%u043B%u0435%u0437%u043D%u044C%20%u0438%u043B%u0438%20%u0438%u0437%u043C%u0435%u043D%u0435%u043D%u0438%u044F%20%u0432%20%u0440%u0430%u0441%u043F%u0438%u0441%u0430%u043D%u0438%u0438</text>
+            </override>
+            <src>./assets/menu_element.bmml</src>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

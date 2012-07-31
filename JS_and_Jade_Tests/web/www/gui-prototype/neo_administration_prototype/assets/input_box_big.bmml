@@ -1,0 +1,27 @@
+<mockup version="1.0" skin="sketch" measuredW="809" measuredH="343" mockupW="492" mockupH="62">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="317" y="281" w="492" h="62" measuredW="492" measuredH="62" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties/>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="272" h="21" measuredW="43" measuredH="29" zOrder="0" locked="false" isInGroup="0">
+          <controlProperties>
+            <color>3355443</color>
+            <size>16</size>
+            <text>Title</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::HRule" x="50" y="57" w="442" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="0">
+          <controlProperties>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="36" y="27" w="255" h="-1" measuredW="84" measuredH="24" zOrder="2" locked="false" isInGroup="0">
+          <controlProperties>
+            <size>10</size>
+            <text>text%20text%20text</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

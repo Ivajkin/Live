@@ -1,0 +1,262 @@
+.unit{
+	position:relative;
+	float:left;
+	margin-left:25px;
+	/*margin-bottom:20px;*/
+}
+.loader{
+	position:absolute;
+	top:90%;
+	left:45%;
+	text-align:center;
+	z-index:50;
+}
+.narrow{
+	width:245px;
+	min-height:468px;	
+}
+.wide{
+	width:618px;
+	min-height:468px;
+}
+.w_content{
+	/*background-color: black;*/
+	width:614px;
+	height:100%;
+	float:left;
+}
+.n_content{
+	/*background-color: black;*/
+	width:241px;
+	height:100%;
+	float:left;
+}
+.row{
+	display:table-row;
+}
+.left_decorator{
+	float:left;
+	width:2px;
+	height:100%;
+	display:table;
+}
+.left_top_decorator{
+	background: url('../images/panel/narrow-panel-top-left.png') center no-repeat;
+	/*background-color: red;*/
+	height: 179px;
+	position: relative;
+	display: table-cell;
+}
+.left_middle_decorator{
+	background: url('../images/panel/narrow-panel-middle-left.png') center repeat-y;
+	/*background-color: blue;*/
+	/*height:100%;
+	margin-top:-350px;	*/
+	position: relative;
+	display:table-cell;
+}
+.left_bottom_decorator{
+	background: url('../images/panel/narrow-panel-bottom-left.png') center no-repeat;
+	/*background-color: green;*/
+	height:171px;	
+	position: relative;
+	display:table-cell;
+}
+
+.left_top_decorator, .left_middle_decorator, .left_bottom_decorator,
+.right_top_decorator, .right_middle_decorator, .right_bottom_decorator {
+	width: 2px;
+}
+
+.right_decorator{
+	float:left;
+	width:2px;
+	height:100%;
+	display:table;
+}
+.right_top_decorator{
+	background: url('../images/panel/narrow-panel-top-right.png') center no-repeat;
+	/*background-color: red;*/
+	height:179px;
+	position: relative;
+	display:table-cell;
+}
+.right_middle_decorator{
+	background: url('../images/panel/narrow-panel-middle-right.png') center repeat-y;
+	/*background-color: blue;*/
+	/*height:100%;
+	margin-top:-350px;	*/
+	position: relative;
+	display:table-cell;
+}
+.right_bottom_decorator{
+	background: url('../images/panel/narrow-panel-bottom-right.png') center no-repeat;
+	/*background-color: green;*/
+	height:171px;	
+	position: relative;
+	display:table-cell;
+}
+/*Toolbar*/
+.n_toolbar, .n_footbar, .w_toolbar, .w_footbar {
+	text-align:center;
+	color: #B22A30;
+	font-family: 'Cuprum', sans-serif;
+	font-weight: 400;
+	font-size: 18px;
+	min-height: 36px;
+	display:table;
+	width:100%;	
+}
+.bar_icon_holder{
+	height:36px;
+	width:36px;
+	background-color: black;
+	/*float:left;*/
+}
+.bar_icon{
+	/*height:36px;
+	width:36px;*/
+	float:left;
+	cursor: pointer;
+}
+.bar_header{
+	margin: 0 auto;
+	display:table-cell;
+	vertical-align: middle;
+	width:100%;
+}
+.bar_icons_set_left{
+	position:absolute;
+	left:2px;
+	min-height:36px;	
+}
+.bar_icons_set_right{
+	position:absolute;
+	right:2px;
+	min-height:36px;	
+}
+
+.bar_icons_set_right .bar_icon{
+	float:right;
+}
+.bar_icons_set_left .bar_icon{
+	float:left;
+}
+/*END Toolbar*/
+/*HTML Content*/
+.html_content{
+	height:auto;
+}
+/*END HTML Content*/
+
+/*Scroll*/
+
+.scrollcontroll_contentmask {
+	overflow: hidden;
+	position: relative;
+	/*height: 500px;*/
+	/*width: 210px;*/
+	padding-top: 0;
+	padding-right: 0px;
+	float: left;	
+	/*Для вертикального выравнивания*/
+	/*display:table;*/
+}
+
+.scrollcontroll_scrollcontainer {
+	float: left;
+	height: auto;/*500px;*/
+	width: 8px;
+	margin-left: 0px;/*5*/
+	/*display: none;*/
+	/*background-color:red;*/
+}
+
+.scrollcontroll_scrollUpBtn {
+	height: 10px;
+	width: 8px;
+	background-image: url('../images/scroll/scroll_up.gif');
+	margin-bottom: 5px;
+	display:none;
+}
+
+.scrollcontroll_scrollDownBtn {
+	height: 10px;
+	width: 8px;
+	background-image: url('../images/scroll/scroll_down.gif');
+	margin-top: 5px;
+	display:none;
+}
+
+.scrollcontroll_scrolltrack {
+	height: auto;
+	width: 8px;
+	/*background-color: #e0e0e0;*/				
+}
+
+.scrollcontroll_scrollknob {
+	width: 8px;
+	height: 34px;
+	/*border: 0px solid #e0e0e0;*/
+	/*background-color: #637279;*/
+	background-image: url('../images/scroll/scrollbar.png');
+}
+/*END Scroll*/
+/*Tooltip*/
+#tooltip{
+	position:absolute;
+	/*display:none;*/
+	height: 49px;
+	width:429px;
+	top: 39px;
+	left:0px;
+	font-size:11px;	
+}
+#tooltip .content{
+	background: url('../images/messagebox.png') center no-repeat;
+	width:429px;
+	height:100%;	
+}
+#tooltip .buffer{
+	padding: 0 5px;
+	display:table;
+	width:419px;
+	height:100%;	
+}
+#tooltip .icon{
+	display:table-cell;
+	width:24px;
+	vertical-align: middle;
+}
+#tooltip .message{
+	display:table-cell;
+	vertical-align: middle;
+}
+#tooltip .buttons{
+	display:table-cell;
+	vertical-align: middle;
+	width:116px;
+	position:relative; /*to up z-index when shown*/
+}
+#tooltip .image{
+	background-image: url('../images/icon/message-error.png');
+	background-position:center;
+	background-repeat: no-repeat;
+	width:16px;
+	height:16px;
+	margin:0 auto;
+}
+#tooltip .button{
+	background: url('../images/controls/button-small.png') top no-repeat;
+	width:58px;
+	height:26px;
+	display:block;
+	cursor: pointer;
+	float:left;
+	line-height: 26px;
+	text-align: center;
+}
+#tooltip .buttons div:active{
+	background: url('../images/controls/button-small.png') bottom no-repeat;
+}
+/*End Tooltip*/

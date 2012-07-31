@@ -1,0 +1,11 @@
+table
+  thead
+    tr
+      th Name
+      th Food
+  tbody
+    - var items
+    - each item in items
+      tr
+        td= item.name
+        td= item.food

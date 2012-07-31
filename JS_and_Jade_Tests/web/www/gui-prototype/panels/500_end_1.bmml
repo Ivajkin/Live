@@ -1,0 +1,30 @@
+<mockup version="1.0" skin="sketch" measuredW="1262" measuredH="735" mockupW="1237" mockupH="712">
+  <controls>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::RoundButton" x="1164" y="646" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>400_test_configuration_1%26bm%3B400_test_configuration_1.bmml%26bm%3B400_test_configuration_1.bmml%26bm%3B400_test_configuration_1.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221139%2C623%2C1171%2C655%22%20href%3D%22400_test_configuration_1.bmml%22%20alt%3D%22400_test_configuration_1%22%20id%3D%2246%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Component" x="366" y="186" w="554" h="470" measuredW="554" measuredH="470" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22639%2C564%2C789%2C617%22%20href%3D%22550_end_2%28filled%29.bmml%22%20alt%3D%22550_end_2%28filled%29%22%20id%3D%223%22/%3E</map>
+        <override controlID="3">
+          <href>550_end_2%28filled%29%26bm%3B550_end_2%28filled%29.bmml%26bm%3B550_end_2%28filled%29.bmml%26bm%3B550_end_2%28filled%29.bmml</href>
+        </override>
+        <src>./assets/user_form.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Component" x="25" y="23" w="1237" h="712" measuredW="1237" measuredH="712" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#main_background</src>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Component" x="46" y="186" w="320" h="470" measuredW="320" measuredH="470" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/main_navigation_social.bmml</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

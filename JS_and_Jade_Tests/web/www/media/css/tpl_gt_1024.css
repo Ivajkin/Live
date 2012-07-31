@@ -1,0 +1,23 @@
+.unit{
+	margin-left:25px;
+}
+
+.wide{
+	width:618px;
+}
+
+.w_content{
+	width:614px;
+}
+
+#main{	
+	min-width:913px;/*same as viewport*/
+}
+
+#header{
+	min-width:1083px;
+}
+
+#footer{
+	min-width:1083px;
+}

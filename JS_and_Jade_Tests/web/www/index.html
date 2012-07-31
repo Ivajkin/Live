@@ -1,0 +1,211 @@
+<!doctype html>
+
+<html>
+	<head>
+		<!--[if IE 9]>
+		<meta http-equiv="X-UA-Compatible" content="IE=9"> 	
+		<![endif]-->
+		<!--[if IE 8]>
+		<meta http-equiv="X-UA-Compatible" content="IE=8"> 	
+		<![endif]-->		
+		<!--[if IE 7]>
+		<meta http-equiv="X-UA-Compatible" content="IE=7"> 
+		<![endif]-->
+		<meta name="author" content="Ivajkin Timofej, Technovation (http://tncor.com)"/>
+		<meta name="copyright" content="copyright 2011 http://tncor.com"/>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Япозаписи.ru - Предварительная запись к специалистам он-лайн | Запись к парикмахеру, врачу, мастеру ногтевого сервиса</title>
+		<!-- CSS Styles -->
+		
+		<!-- TODO: загружать через javascript, так как при отладке без интернета с этими стилями грузится порядка 15 секунд.-->
+		<link href='http://fonts.googleapis.com/css?family=Lobster&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Neucha&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Andika&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+		
+		
+		<!-- <link rel="stylesheet" type="text/css" href="core/media/css/main.css" />
+		<link rel="stylesheet" type="text/css" href="core/media/css/mooswitch.css" /> -->
+		<link rel="stylesheet" type="text/css" href="core/media/css/io.css" />
+		
+		<link rel="stylesheet" type="text/css" href="media/css/template.css" />
+		<link rel="stylesheet" type="text/css" href="media/css/custom_template.css" />
+		<link rel="stylesheet" type="text/css" href="media/css/unit_tpl.css" />
+		
+		<link rel="stylesheet" type="text/css" href="media/css/main.css" />
+		<link rel="stylesheet" type="text/css" href="media/css/print.css" media="print" />
+		<link rel="stylesheet" type="text/css" href="media/css/mooswitch.css"/>
+		<link rel="stylesheet" type="text/css" href="media/css/nivooslider.css"/>
+		<link rel="stylesheet" type="text/css" href="tests/tests.css"/>
+
+		<link rel="shortcut icon" href="media/images/schedule.ico">
+		<!-- JS Scripts -->
+		<script data-main="media/require/main" src="core/media/require/require.js"></script>		
+		<!--[if lt IE 9]>
+			<link rel="stylesheet" type="text/css" href="media/css/IEFixes.css" />
+		<![endif]-->
+		<!--[if IE 7]>
+			<link rel="stylesheet" type="text/css" href="media/css/IE70Fixes.css" />
+			<![endif]-->
+
+		<script type="text/javascript">
+  			var _gaq = _gaq || [];
+  			_gaq.push(['_setAccount', 'UA-27066366-1']);
+  			_gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+		</script>	
+	</head>
+	<body>
+		
+		<!-- Сообщение о том, что javascript не работает, удаляем из index.view.js после загрузки DOM -->
+		<noscript>
+			<h1 id="javascript-disabled-message" style="position=fixed; width: 100%; height: 100%; z-index: 200;" >Извините, у вас не работает javascript. Включите его.</h1>
+		</noscript>	
+		
+		<div id="header">
+			<div id="header_internal">
+				<div id="logo-service">
+					<div id="haircut-logo"></div>
+					<div id="nails-logo"></div>
+					<div id="medical-logo"></div>
+				</div>
+			</div>			
+			<div id="logo"></div>
+		</div>
+		<div id="outer">
+			<div class="left">
+				<div id="sidebar" class="">
+					<div id="sidebar_internal">
+						<div id="nav">
+							<ul>
+								<li id="signup" class="sidebar_elem">
+									Записаться
+								</li>
+								<li id="user_cabinet" class="sidebar_elem">
+									Мои записи
+								</li>
+								<li id="administration" class="sidebar_elem">
+									Управление
+								</li>
+								<li id="partners" class="sidebar_elem">
+									Бизнесу
+								</li>
+								<li id="help" class="sidebar_elem">
+									Справка
+								</li>
+							</ul>
+						</div>
+						<div id="user_toolbar">
+							<a id="user_plans" title="Войти в свой кабинет"> Гость </a>
+							<a id="region" title="Выбрать город"> Где Вы? </a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="center">
+				<div id="main" class=""></div>
+			</div>
+			<!--<div class="right" >
+			<div id="rightbar" class="">
+
+			</div>	-->
+		</div>
+		<div id="footer">
+			<div id="decors"></div>
+			<div id="footer_internal">
+				<div id="line_decorator"></div>
+				<div id="scissors_decorator"></div>
+				<div id="contacts" class="address" title="Контакты">
+					<h1>Контакты</h1>
+					<div class="data-block">
+						<div id="phone" class="address_info">
+							8 (4212) 41-31-55
+						</div>
+					</div>
+					<div class="data-block">
+						<a id="mail" target="_blank" rel="external" class="address_info" title="Пишите нам" href="mailto:mail@yapozapisi.ru">mail@yapozapisi.ru</a>
+					</div>
+				</div>
+				<div class="vertical-splitter first"></div>
+				<!-- TODO: ссылки на соц. сети -->
+				<div id="social" class="address" title="Мы в соцсетях">
+					<h1>Мы в соцсетях</h1>
+					<div class="section">
+						<div class="data-block">
+							<a id="twitter" target="_blank" rel="external" class="address_info" title="я по записи НА ТВИТТЕРЕ" href="http://twitter.com/yapozapisi"> Я по записи
+							<br/>
+							НА ТВИТТЕРЕ </a>
+						</div>
+						<div class="data-block">
+							<a id="facebook" target="_blank" rel="external" class="address_info" title="я по записи НА ФЕЙСБУК" href="http://tncor.com">Я по записи
+							<br/>
+							НА ФЕЙСБУК </a>
+						</div>
+					</div>
+					<div class="section">
+						<div class="data-block">
+							<a id="vkontakte" target="_blank" rel="external" class="address_info" title="я по записи В КОНТАКТЕ" href="http://tncor.com">Я по записи
+							<br/>
+							В КОНТАКТЕ </a>
+						</div>
+						<div class="data-block">
+							<a id="odnoklassniki" target="_blank" rel="external" class="address_info" title="я по записи В ОДНОКЛАССНИКАХ" href="http://tncor.com">Я по записи
+							<br/>
+							В ОДНОКЛАССНИКАХ </a>
+						</div>
+					</div>
+				</div>
+				<div class="vertical-splitter second"></div>
+				<a id="tncor" target="_blank" rel="external" href="http://tncor.com"></a>
+			</div>
+		</div>
+		
+		<!-- UNIT TESTS -->
+		<div id="unit-tests" class="hidden">
+			<h1 id="qunit-header">Я по записи</h1>
+			<h2 id="qunit-banner"></h2>
+			<h2 id="qunit-userAgent"></h2>
+			<ol id="qunit-tests"></ol>
+			<link rel="stylesheet" type="text/css" href="tests/qunit.css"/>
+		</div>
+		
+		<div id="resource-loading-bar-big"></div>
+		
+		<div id="image-cache-block">
+			<img alt="cached-image" src="media/images/top-custom-logo-doctor.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/top-custom-logo-hair.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/top-custom-logo-nails.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/controls/edit-left.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/controls/edit-right.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/controls/edit-center.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/success_panel/icon-print.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/success_panel/icon-email2.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/success_panel/icons-phone.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/success_panel/icon-ok-12.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/icon/medical.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/icon/doctor.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/icon/hair.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/icon/nails.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/toolbar/icon-back.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/icon/places.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/icon/statistic.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/icon/employees.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/icon/services.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/icon/book.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/something.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/toolbar/icon-edit.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/toolbar/icon-save.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/toolbar/icon-add2.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/toolbar/icon-delete2.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/toolbar/icon-exit.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/toolbar/icon-ok2.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/toolbar/icon-print.png" width="1" height="1" />
+			<img alt="cached-image" src="media/images/toolbar/icon-ok2-disabled.png" width="1" height="1" />
+		</div>
+	</body>
+</html>

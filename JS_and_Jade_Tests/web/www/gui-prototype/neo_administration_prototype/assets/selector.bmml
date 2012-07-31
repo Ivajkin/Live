@@ -1,0 +1,10 @@
+<mockup version="1.0" skin="sketch" measuredW="626" measuredH="280" mockupW="215" mockupH="52">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="411" y="228" w="215" h="52" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

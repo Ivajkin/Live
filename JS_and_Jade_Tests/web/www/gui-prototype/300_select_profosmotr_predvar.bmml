@@ -1,0 +1,116 @@
+<mockup version="1.0" skin="sketch" measuredW="1162" measuredH="696" mockupW="1157" mockupH="692">
+  <controls>
+    <control controlID="16" controlTypeID="__group__" x="220" y="120" w="217" h="576" measuredW="217" measuredH="576" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="217" h="576" measuredW="217" measuredH="576" zOrder="0" locked="false" isInGroup="16">
+          <controlProperties>
+            <override controlID="0" x="0" y="0" w="217" h="576"/>
+            <override controlID="0:0" x="0" y="0" w="217" h="576"/>
+            <override controlID="0:1" x="14" y="48" w="187" h="-1"/>
+            <override controlID="0:2" x="47" y="10" w="121" h="43">
+              <text>%u041F%u0440%u043E%u0444%u043E%u0441%u043C%u043E%u0442%u0440%u044B</text>
+            </override>
+            <src>./assets/panel_small.bmml</src>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="15" y="63" w="174" h="23" measuredW="174" measuredH="23" zOrder="1" locked="false" isInGroup="16">
+          <controlProperties>
+            <override controlID="0" x="0" y="0" w="174" h="23"/>
+            <override controlID="0:1" x="0" y="0" w="174" h="18">
+              <text>%u041F%u0440%u0435%u0434%u0432%u0430%u0440%u0438%u0442%u0435%u043B%u044C%u043D%u044B%u0439%20%u043E%u0441%u043C%u043E%u0442%u0440</text>
+            </override>
+            <override controlID="0:3" x="11" y="18" w="151" h="5"/>
+            <src>./assets/menu_element_small.bmml</src>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="15" y="95" w="174" h="23" measuredW="174" measuredH="23" zOrder="2" locked="false" isInGroup="16">
+          <controlProperties>
+            <override controlID="0" x="0" y="0" w="174" h="23">
+              <href>310_select_profosmotr_periodicheskiy%26bm%3B310_select_profosmotr_periodicheskiy.bmml%26bm%3B310_select_profosmotr_periodicheskiy.bmml%26bm%3B310_select_profosmotr_periodicheskiy.bmml</href>
+            </override>
+            <override controlID="0:1" x="0" y="0" w="174" h="18">
+              <text>%u041F%u0435%u0440%u0438%u043E%u0434%u0438%u0447%u0435%u0441%u043A%u0438%u0439%20%u043E%u0441%u043C%u043E%u0442%u0440%20%u0441%u043E%u0442%u0440%u0443%u0434%u043D%u0438%u043A%u043E%u0432</text>
+            </override>
+            <override controlID="0:3" x="12" y="18" w="151" h="5"/>
+            <src>./assets/menu_element_small.bmml</src>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Component" x="19" y="126" w="178" h="49" measuredW="178" measuredH="49" zOrder="3" locked="false" isInGroup="16">
+          <controlProperties>
+            <override controlID="0" x="0" y="0" w="178" h="49">
+              <href>320_select_profosmotr_stajirovanie%26bm%3B320_select_profosmotr_stajirovanie.bmml%26bm%3B320_select_profosmotr_stajirovanie.bmml%26bm%3B320_select_profosmotr_stajirovanie.bmml</href>
+            </override>
+            <override controlID="0:1" x="0" y="0" w="178" h="49">
+              <text>%u0414%u043B%u044F%20%u0441%u0442%u0430%u0436%u0438%u0440%u043E%u0432%u0430%u043D%u043D%u043E%u0433%u043E%20%u043A%u043E%u043D%u0442%u0435%u043D%u0433%u0435%u043D%u0442%u0430</text>
+            </override>
+            <override controlID="0:3" x="8" y="44" w="151" h="5"/>
+            <src>./assets/menu_element_small.bmml</src>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Component" x="21" y="181" w="174" h="23" measuredW="174" measuredH="23" zOrder="4" locked="false" isInGroup="16">
+          <controlProperties>
+            <override controlID="0" x="0" y="0" w="174" h="23">
+              <href>330_select_profosmotr_deep%26bm%3B330_select_profosmotr_deep.bmml%26bm%3B330_select_profosmotr_deep.bmml%26bm%3B330_select_profosmotr_deep.bmml</href>
+            </override>
+            <override controlID="0:1" x="0" y="0" w="174" h="18">
+              <text>%u0423%u0433%u043B%u0443%u0431%u043B%u0435%u043D%u043D%u044B%u0435%20%u043E%u0441%u043C%u043E%u0442%u0440%u044B</text>
+            </override>
+            <override controlID="0:3" x="12" y="18" w="151" h="5"/>
+            <src>./assets/menu_element_small.bmml</src>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Component" x="21" y="210" w="174" h="23" measuredW="174" measuredH="23" zOrder="5" locked="false" isInGroup="16">
+          <controlProperties>
+            <override controlID="0" x="0" y="0" w="174" h="23">
+              <href>340_select_profosmotr_voditeley%26bm%3B340_select_profosmotr_voditeley.bmml%26bm%3B340_select_profosmotr_voditeley.bmml%26bm%3B340_select_profosmotr_voditeley.bmml</href>
+            </override>
+            <override controlID="0:1" x="0" y="0" w="174" h="18">
+              <text>%u041E%u0441%u043C%u043E%u0442%u0440%u044B%20%u0432%u043E%u0434%u0438%u0442%u0435%u043B%u0435%u0439</text>
+            </override>
+            <override controlID="0:3" x="12" y="18" w="151" h="5"/>
+            <src>./assets/menu_element_small.bmml</src>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Component" x="222" y="180" w="215" h="26" measuredW="215" measuredH="26" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="215" h="26"/>
+        <src>./assets/selector.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Component" x="487" y="120" w="584" h="576" measuredW="584" measuredH="576" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="1">
+          <bold>false</bold>
+          <text>*%u041F%u0440%u0435%u0434%u0432%u0430%u0440%u0438%u0442%u0435%u043B%u044C%u043D%u044B%u0439%20%u043E%u0441%u043C%u043E%u0442%u0440*%20-%20%u043C%u0435%u0434%u0438%u0446%u0438%u043D%u0441%u043A%u043E%u0435%20%u043E%u0431%u0441%u043B%u0435%u0434%u043E%u0432%u0430%u043D%u0438%u0435%20%u043F%u0440%u0438%20%u043F%u043E%u0441%u0442%u0443%u043F%u043B%u0435%u043D%u0438%u0438%20%u043D%u0430%20%u0440%u0430%u0431%u043E%u0442%u0443</text>
+        </override>
+        <override controlID="0:0">
+          <text/>
+        </override>
+        <override controlID="0:2">
+          <text>%u041F%u0440%u0435%u0434%u0432%u0430%u0440%u0438%u0442%u0435%u043B%u044C%u043D%u044B%u0439%20%u043E%u0441%u043C%u043E%u0442%u0440</text>
+        </override>
+        <src>./assets/panel_big.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::PointyButton" x="510" y="130" w="-1" h="-1" measuredW="50" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>left</direction>
+        <href>200_select_profosmotr%26bm%3B200_select_profosmotr.bmml%26bm%3B200_select_profosmotr.bmml%26bm%3B200_select_profosmotr.bmml</href>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Component" x="5" y="4" w="1157" h="692" measuredW="1157" measuredH="692" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/background.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Button" x="707" y="630" w="144" h="55" measuredW="95" measuredH="28" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>400_schedule_time%26bm%3B400_schedule_time.bmml%26bm%3B400_schedule_time.bmml%26bm%3B400_schedule_time.bmml</href>
+        <text>%u0417%u0430%u043F%u0438%u0441%u0430%u0442%u044C%u0441%u044F</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

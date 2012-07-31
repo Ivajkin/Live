@@ -1,0 +1,24 @@
+<mockup version="1.0" skin="sketch" measuredW="1265" measuredH="728" mockupW="1237" mockupH="712">
+  <controls>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Component" x="1001" y="171" w="250" h="470" measuredW="250" measuredH="470" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/end_session_or_print_panel.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Component" x="341" y="172" w="610" h="469" measuredW="610" measuredH="469" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/user_full_info_panel.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Component" x="28" y="16" w="1237" h="712" measuredW="1237" measuredH="712" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#main_background</src>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Component" x="49" y="172" w="320" h="470" measuredW="320" measuredH="470" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/main_navigation_social.bmml</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

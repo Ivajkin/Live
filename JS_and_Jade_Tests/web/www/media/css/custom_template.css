@@ -1,0 +1,66 @@
+/*Template Elements*/
+#sidebar_internal{
+	width:100%;
+	height:100%; 
+	background: url('../images/sidebar.png') no-repeat;
+}
+/*FOOTER*/
+#decors{
+	width:100%;
+	height:2px; 
+	/*background-color: transparent;*/
+}
+#footer_internal{
+	width:100%;
+	height:112px; 
+	background: url('../images/bg-foot.jpg') repeat;
+	/*overflow-x: hidden;*/
+}
+#scissors_decorator{
+	background: url('../images/bottom-scirrors.png') no-repeat;
+	width:44px;
+	height:31px;
+	position:absolute;
+	float:left;
+	margin: -15px 0px 0px 5px;
+	z-index: 100;
+}
+#line_decorator{
+	background: url('../images/bottom-dash.png') repeat-x;
+	width:100%;	
+	height:4px;
+	position:relative;
+	top:-2px;
+	left:44px;
+}
+#tncor{
+	background: url('../images/bottom-tn.png') no-repeat;
+	width:136px;
+	height:112px;
+	float:right;
+}
+/*END FOOTER*/
+/*HEADER*/
+#header_internal{
+	background: url('../images/top-panel.png') top no-repeat;
+	height:100%;
+	/*width:100%;*/
+	margin-left:170px;
+}
+#logo-service{
+	width:154px;
+	height:87px;
+	/*background-color:white;*/
+	/*background: url('../images/top-custom-logo-doctor.png') center top no-repeat;*/
+	/*display:none;*/
+	margin:0 auto;
+}
+#logo{
+	width:289px;
+	height:163px;
+	background: url('../images/corner-logo.png') left top no-repeat;
+	top:0px;
+	left:0px;
+	position:absolute;
+}
+/*END HEADER*/

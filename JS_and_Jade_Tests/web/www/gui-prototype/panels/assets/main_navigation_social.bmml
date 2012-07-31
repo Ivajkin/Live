@@ -1,0 +1,108 @@
+<mockup version="1.0" skin="sketch" measuredW="373" measuredH="520" mockupW="320" mockupH="470">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="53" y="50" w="134" h="470" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="83" y="59" w="-1" h="-1" measuredW="13" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="108" y="485" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ThumbsUpIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="68" y="485" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>TwitterIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="147" y="485" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>FacebookIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="53" y="470" w="134" h="50" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="53" y="51" w="134" h="33" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Icon" x="96" y="102" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3700253</color>
+        <icon>LinkGlobeIcon%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="83" y="150" w="-1" h="-1" measuredW="76" measuredH="23" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>12</size>
+        <text>%u0433.%20%u0425%u0430%u0431%u0430%u0440%u043E%u0432%u0441%u043A</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Icon" x="96" y="188" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16750848</color>
+        <icon>StarIcon%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Tooltip" x="116" y="99" w="-1" h="-1" measuredW="131" measuredH="33.1" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u0412%u044B%u0431%u043E%u0440%20%u0440%u0435%u0433%u0438%u043E%u043D%u0430</text>
+        <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="83" y="236" w="74" h="22" measuredW="74" measuredH="23" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>12</size>
+        <text>%u0432%20%u0438%u0437%u0431%u0440%u0430%u043D%u043D%u043E%u0435</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Icon" x="96" y="286" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>2848996</color>
+        <icon>HomeMobileIcon%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="53" y="334" w="134" h="29" measuredW="62" measuredH="23" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>false</bold>
+        <size>12</size>
+        <text>%u0434%u043E%u043C%u0430%u0448%u043D%u044F%u044F</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Icon" x="96" y="372" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>3480693</color>
+        <icon>JumpOutIcon%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="53" y="420" w="134" h="29" measuredW="88" measuredH="23" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>false</bold>
+        <size>12</size>
+        <text>%u0441%u043E%u0437%u0434%u0430%u0442%u044C%20%u044F%u0440%u043B%u044B%u043A</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Tooltip" x="125" y="180" w="-1" h="-1" measuredW="176" measuredH="33.1" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u0414%u043E%u0431%u0430%u0432%u0438%u0442%u044C%20%u0432%20%u0438%u0437%u0431%u0440%u0430%u043D%u043D%u043E%u0435</text>
+        <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Tooltip" x="131" y="279" w="-1" h="-1" measuredW="220" measuredH="33.1" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u0421%u0434%u0435%u043B%u0430%u0442%u044C%20%u0441%u0442%u0440%u0430%u043D%u0438%u0446%u0443%20%u0434%u043E%u043C%u0430%u0448%u043D%u0435%u0439</text>
+        <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Tooltip" x="125" y="357" w="-1" h="-1" measuredW="248" measuredH="33.1" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u0421%u043E%u0437%u0434%u0430%u0442%u044C%20%u044F%u0440%u043B%u044B%u043A%20%u043D%u0430%20%u0440%u0430%u0431%u043E%u0447%u0435%u043C%20%u0441%u0442%u043E%u043B%u0435</text>
+        <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

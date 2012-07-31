@@ -1,0 +1,9 @@
+<mockup version="1.0" skin="sketch" measuredW="747" measuredH="593" mockupW="275" mockupH="470">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="472" y="123" w="275" h="470" measuredW="275" measuredH="470" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/service_settings.bmml</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

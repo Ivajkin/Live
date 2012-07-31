@@ -1,0 +1,16 @@
+<mockup version="1.0" skin="sketch" measuredW="219" measuredH="172" mockupW="150" mockupH="122">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="69" y="119" w="150" h="53" measuredW="135" measuredH="28" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16370588</color>
+        <text>%u041F%u043E%u0441%u043B%u0430%u0442%u044C%20%u043F%u043E%20SMS</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="69" y="50" w="150" h="53" measuredW="145" measuredH="28" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16770457</color>
+        <text>%u041F%u043E%u0441%u043B%u0430%u0442%u044C%20%u043D%u0430%20e-mail</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
