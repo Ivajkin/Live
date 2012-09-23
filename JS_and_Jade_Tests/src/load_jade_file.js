@@ -7,9 +7,19 @@
         url = require('url'),
         mime = require('mime'),
         gzip = require('gzip');
-
+        
+    function parseAndRenderJade(response,inUrl){
+        console.msg.info('Render requested');
+        var list = [{cont:'first'}, {cont:'second'}];
+        var lesson = [{cont:'Да тут первая часть урока же!'},{cont:'Я гарантирую, что тут вторая часть'},{cont:'End of lesson'}];
+        //response.render(path.join(process.cwd() + '/web', uri));
+        response.render(path.join(process.cwd() + '/web', inUrl), {
+            list: list,
+            lesson: lesson
+        });
+    }
     exports.load_jade_file = function load_jade_file(request, response, homefolder) {
-        console.msg.not_important('Request header: ' + JSON.stringify(request.headers));
+        //console.msg.not_important('Request header: ' + JSON.stringify(request.headers));
 
         var uri = url.parse(request.url).pathname;
 
@@ -31,12 +41,7 @@
             var mime_type_string = mime.lookup(uri);
             console.msg.info('Mime type detected: "'+ mime_type_string + '"');
 
-            var items = [{name:'Dean',food:'Chicken'}, {name:'Paul',food:'steak'}];
-            
-            //response.render(path.join(process.cwd() + '/web', uri));
-            response.render(path.join(process.cwd() + '/web', uri), {
-                items: items
-            });
+            parseAndRenderJade(response,uri);
             //response.render(path.join(process.cwd() + '/web', '/index.jade'), { title: 'My Site' });
         });
     };

@@ -1,11 +1,13 @@
 table
-  thead
-    tr
-      th Name
-      th Food
   tbody
-    - var items
-    - each item in items
+    - var list
+    - each item in list
       tr
-        td= item.name
-        td= item.food
+        td= item.cont
+br
+table
+  tbody
+    - var lesson
+    - each item in lesson
+      tr
+        td= item.cont
